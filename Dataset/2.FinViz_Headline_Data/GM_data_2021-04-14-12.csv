@@ -1,0 +1,101 @@
+,ticker,date,time,headline,neg,neu,pos,compound
+0,GM,2021-04-13,05:45PM,General Motors Company (GM) Stock Sinks As Market Gains: What You Should Know,0.0,0.833,0.167,0.34
+1,GM,2021-04-13,04:32PM,"Ford, GM among Michigan companies opposing Republican-backed voting limits",0.0,1.0,0.0,0.0
+2,GM,2021-04-13,04:31PM,GM Restarts Some Production Early After Chip-Shortage Pause,0.0,1.0,0.0,0.0
+3,GM,2021-04-13,12:33PM,"General Motors (GM) to Launch Map Plus, Expand AV Operations",0.0,0.796,0.204,0.3182
+4,GM,2021-04-13,10:19AM,U.S. investigating possible air bag failures in GM vehicles,0.273,0.727,0.0,-0.4588
+5,GM,2021-04-13,07:37AM,General Motors Drops as NHTSA Opens Airbag Inquiry,0.0,1.0,0.0,0.0
+6,GM,2021-04-13,07:30AM,3 Legacy Automakers to Watch As the Shift to EVs Speeds Up,0.0,1.0,0.0,0.0
+7,GM,2021-04-12,11:24PM,Biden Reassures Chip Summit of Bipartisan Support for Funds,0.0,0.574,0.426,0.6369
+8,GM,2021-04-12,02:09PM,Chip shortage pain to be spread out pretty evenly: Autoblog Editor-in-Chief,0.321,0.485,0.194,-0.2732
+9,GM,2021-04-12,12:46PM,GM marketing spend will return to normal levels post pandemic,0.0,1.0,0.0,0.0
+10,GM,2021-04-12,10:40AM,GM-Backed Cruise Will Deploy Self-Driving Taxis in Dubai in 2023,0.0,1.0,0.0,0.0
+11,GM,2021-04-12,10:24AM,UPDATE 5-GM marketing spending will return to normal levels post pandemic,0.0,1.0,0.0,0.0
+12,GM,2021-04-12,09:42AM,GM marketing spend will return to normal levels post pandemic-chief marketing officer,0.0,1.0,0.0,0.0
+13,GM,2021-04-12,09:00AM,Intel's Mobileye teams with startup Udelv on automated delivery,0.0,1.0,0.0,0.0
+14,GM,2021-04-12,08:06AM,"Auto Stock Roundup: GM & F's Strong Q1 China Sales, PCAR-Romeo Deal and More",0.0,0.784,0.216,0.5106
+15,GM,2021-04-12,08:01AM,China Auto Sales on Fast Track: Will it Hit a Speed Bump?,0.0,1.0,0.0,0.0
+16,GM,2021-04-12,06:23AM,General Motors' Cruise unit signals progress with Dubai deal,0.0,0.741,0.259,0.4215
+17,GM,2021-04-12,06:07AM,UPDATE 1-General Motors' Cruise unit signals progress with Dubai deal,0.0,0.763,0.237,0.4215
+18,GM,2021-04-11,09:10PM,"LG, SK Reach $1.8 Billion Settlement to End EV Battery Spat",0.0,0.901,0.099,0.0258
+19,GM,2021-04-09,04:32PM,GM cuts some U.S. truck production shifts because of chip shortage,0.318,0.682,0.0,-0.4939
+20,GM,2021-04-09,11:52AM,Chip shortage 'might persist for well into the second half' of 2021: Analyst,0.132,0.728,0.139,0.0258
+21,GM,2021-04-09,09:22AM,The global chip shortage is a perfect storm: strategist,0.171,0.513,0.316,0.4019
+22,GM,2021-04-08,04:14PM,Day Traders Go Big on Blue Chips as Meme Stocks Fad Cools,0.0,0.853,0.147,0.2263
+23,GM,2021-04-08,03:55PM,China Auto Sales: Ford vs. General Motors,0.0,1.0,0.0,0.0
+24,GM,2021-04-08,03:15PM,General Motors Extend Production Holidays To Counter Global Semiconductor Crunch: CNBC,0.0,0.677,0.323,0.5106
+25,GM,2021-04-08,02:26PM,Chip Shortages Force More Cuts at North American Auto Plants,0.338,0.662,0.0,-0.4754
+26,GM,2021-04-08,11:31AM,"General Motors China Sales Jump 69%, Paced by a Tiny EV",0.0,1.0,0.0,0.0
+27,GM,2021-04-08,11:00AM,Ford's China Sales Surge 73% as Restructuring Plan Takes Hold,0.0,1.0,0.0,0.0
+28,GM,2021-04-08,10:50AM,Transportation Secretary Pete Buttigieg: Electric vehicles shouldn't be a luxury item,0.0,1.0,0.0,0.0
+29,GM,2021-04-08,10:17AM,"UPDATE 2-GM, Ford cutting more North American production due to chip shortage",0.259,0.741,0.0,-0.3612
+30,GM,2021-04-08,09:46AM,"GM, Ford cutting more North American production due to chip shortage",0.28,0.72,0.0,-0.3612
+31,GM,2021-04-08,07:00AM,Yahoo Finance Presents: U.S. Secretary of Transportation Pete Buttigieg,0.0,1.0,0.0,0.0
+32,GM,2021-04-08,06:56AM,Tesla's (TSLA) Revamped Model X/S Running Behind Schedule,0.0,1.0,0.0,0.0
+33,GM,2021-04-08,05:47AM,General Motors Lower on Reported Shutdowns Linked to Chip Shortage,0.344,0.656,0.0,-0.4939
+34,GM,2021-04-07,05:45PM,General Motors Company (GM) Stock Sinks As Market Gains: What You Should Know,0.0,0.833,0.167,0.34
+35,GM,2021-04-07,04:16PM,GM offers clues to technology aimed at slashing EV battery costs,0.174,0.826,0.0,-0.2732
+36,GM,2021-04-07,12:50PM,Why This BofA Analyst Says General Motors Is A Top EV Stock,0.0,0.847,0.153,0.2023
+37,GM,2021-04-07,08:29AM,Can General Motors Charge to New Highs? The Chart Says Yes,0.0,0.787,0.213,0.4019
+38,GM,2021-04-07,07:03AM,General Motors (GM) China Vehicle Sales Sustain Momentum in Q1,0.0,1.0,0.0,0.0
+39,GM,2021-04-07,06:35AM,CEO Mary Barra bets GM can grow beyond cars and trucks,0.0,1.0,0.0,0.0
+40,GM,2021-04-07,06:04AM,CEO Mary Barra bets GM can grow beyond cars and trucks,0.0,1.0,0.0,0.0
+41,GM,2021-04-07,06:00AM,INSIGHT-CEO Mary Barra bets GM can grow beyond cars and trucks,0.0,1.0,0.0,0.0
+42,GM,2021-04-07,05:49AM,General Motors To Introduce EV Truck Built At Factory Zero,0.0,1.0,0.0,0.0
+43,GM,2021-04-06,02:32PM,General Motors' Chevy Silverado Pickup Is Going Electric. But When?,0.0,1.0,0.0,0.0
+44,GM,2021-04-06,01:31PM,GM to start making Silverado electric pickups late next year in Detroit - source,0.0,1.0,0.0,0.0
+45,GM,2021-04-06,01:18PM,General Motors to Announce Electric Pickup at Detroit Plant,0.0,1.0,0.0,0.0
+46,GM,2021-04-06,12:48PM,GM to start making Silverado electric pickups late next year in Detroit: source,0.0,1.0,0.0,0.0
+47,GM,2021-04-06,12:40PM,REFILE-UPDATE 2-GM to start making Silverado electric pickups late next year in Detroit - source,0.0,1.0,0.0,0.0
+48,GM,2021-04-06,09:13AM,GM to Build Electric Silverado as Follow-Up to EV Hummer,0.0,1.0,0.0,0.0
+49,GM,2021-04-06,07:19AM,US Q1 Vehicle Sales Impress: Will Momentum Sustain in Q2?,0.0,0.756,0.244,0.4404
+50,GM,2021-04-05,08:05PM,Why General Motors Stock Popped Today,0.0,1.0,0.0,0.0
+51,GM,2021-04-05,05:08PM,GMC expands Hummer EV lineup with extreme SUV,0.0,0.833,0.167,0.1027
+52,GM,2021-04-05,04:40PM,"Why This GM, Ford Analyst Is Bullish On The Motor City Automakers",0.0,1.0,0.0,0.0
+53,GM,2021-04-05,04:40PM,GMC expands Hummer EV lineup with extreme SUV,0.0,0.833,0.167,0.1027
+54,GM,2021-04-05,12:56PM,"Biden's electric vehicle ambitions may send Tesla stock skyrocketing to $1,300: analyst",0.0,1.0,0.0,0.0
+55,GM,2021-04-05,10:19AM,"Markets Up on Labor, Tesla & Outlook",0.0,1.0,0.0,0.0
+56,GM,2021-04-05,10:09AM,General Motors 1Q Vehicle Sales Rise On Strong Auto Demand,0.117,0.625,0.258,0.4215
+57,GM,2021-04-05,09:31AM,Teslas Q1 report is a game changer: analyst,0.0,1.0,0.0,0.0
+58,GM,2021-04-05,09:15AM,"Tesla shares spike after company posts record quarterly deliveries, gets analyst upgrade",0.0,0.833,0.167,0.296
+59,GM,2021-04-05,07:03AM,Is Biden's $174B Plan to Fastrack EV Industry Foolproof?,0.0,0.755,0.245,0.3818
+60,GM,2021-04-03,11:20AM,"Benzinga's Bulls And Bears Of The Week: Apple, GM, JetBlue, Lululemon, Tesla And More",0.0,1.0,0.0,0.0
+61,GM,2021-04-02,08:37PM,Why General Motors Stock Climbed Higher in March,0.0,1.0,0.0,0.0
+62,GM,2021-04-02,12:54PM,General Motors Reports 1st-Quarter Sales Numbers,0.0,1.0,0.0,0.0
+63,GM,2021-04-01,10:12PM,U.S. automakers post higher quarterly sales even as chip shortage bites,0.167,0.833,0.0,-0.25
+64,GM,2021-04-01,06:35PM,UPDATE 1-Canadian first-quarter auto sales rise as demand picks up,0.143,0.857,0.0,-0.128
+65,GM,2021-04-01,05:08PM,Automakers Notch Sales Bounce a Year After Covid-19 Onset,0.0,1.0,0.0,0.0
+66,GM,2021-04-01,04:27PM,"GM, Ford U.S. Sales Rise; Mustang Mach-E Roars As VW Reports First ID.4 Sales",0.0,1.0,0.0,0.0
+67,GM,2021-04-01,03:01PM,General Motors Postpones Meeting with Black Media After Group Runs Second Ad,0.16,0.84,0.0,-0.2732
+68,GM,2021-04-01,12:22PM,GM's First Quarter U.S. Retail Sales Grow 19 Percent,0.0,1.0,0.0,0.0
+69,GM,2021-04-01,11:42AM,CORRECTED-UPDATE 2-U.S. automakers post higher quarterly sales even as chip shortage bites,0.154,0.846,0.0,-0.25
+70,GM,2021-04-01,11:37AM,"GM total U.S. sales rise 4% in first quarter, demand 'rose sharply'",0.12,0.88,0.0,-0.128
+71,GM,2021-04-01,11:23AM,U.S. automakers post higher quarterly sales even as chip shortage bites,0.167,0.833,0.0,-0.25
+72,GM,2021-04-01,10:05AM,How Luminar is helping to lead the charge of the autonomous vehicle industry transformation,0.0,0.855,0.145,0.296
+73,GM,2021-04-01,09:36AM,Bidens tax plan is in the best interest of our economy: White House CEA,0.0,0.625,0.375,0.802
+74,GM,2021-04-01,09:24AM,Heres what comes next for Bidens infrastructure plan,0.0,1.0,0.0,0.0
+75,GM,2021-04-01,08:41AM,General Motors Climbs on Rising Quarterly Sales,0.0,1.0,0.0,0.0
+76,GM,2021-04-01,08:19AM,Legacy Autos Claim Their EV Premium After Missing 2020 Rally,0.196,0.804,0.0,-0.296
+77,GM,2021-04-01,05:21AM,"Analyst Expects Tesla, GM To See EV Tax Credits Restored With Biden Kicking Off US 'Green Tidal Wave'",0.0,0.766,0.234,0.5994
+78,GM,2021-03-31,04:14PM,Global Chip Crisis Estimated To Jeopardize 1.3M Vehicle Production: Bloomberg,0.313,0.687,0.0,-0.6249
+79,GM,2021-03-31,03:46PM,UPDATE 3-Ford to update financial impact of global chip shortage next month,0.154,0.846,0.0,-0.25
+80,GM,2021-03-31,02:31PM,"General Motors CEO Mary Barra Denies Clams of Racism, To Meet With Black Media Group",0.347,0.653,0.0,-0.7845
+81,GM,2021-03-31,11:01AM,"Biden infrastructure plan includes pitch for electric vehicle rebates  Tesla, GM, Nikola shares gain",0.0,0.682,0.318,0.6808
+82,GM,2021-03-30,05:47AM,"General Motors Company -- Moody's affirms GM ratings, Baa2 for senior unsecured bank facility and Baa3 for senior unsecured notes; Outlook changed to stable.",0.183,0.739,0.077,-0.4588
+83,GM,2021-03-29,04:32PM,"General Motors Company -- Moody's affirms GM ratings, Baa2 for senior unsecured bank facility and Baa3 for senior unsecured notes; Outlook changed to stable.",0.183,0.739,0.077,-0.4588
+84,GM,2021-03-29,04:24PM,"General Motors Company -- Moody's affirms GM ratings, Baa2 for senior unsecured bank facility and Baa3 for senior unsecured notes; Outlook changed to stable.",0.183,0.739,0.077,-0.4588
+85,GM,2021-03-29,03:53PM,"GMF Australia Pty Ltd -- Moody's affirms General Motors Financial's ratings (long-term senior unsecured Baa3), changes outlook to stable from negative; following similar actions on the parent's ratings",0.188,0.746,0.066,-0.6249
+86,GM,2021-03-29,03:53PM,"General Motors Company -- Moody's affirms GM ratings, Baa2 for senior unsecured bank facility and Baa3 for senior unsecured notes; Outlook changed to stable.",0.183,0.739,0.077,-0.4588
+87,GM,2021-03-29,02:30PM,The Latest News on Electric Vehicles,0.0,1.0,0.0,0.0
+88,GM,2021-03-29,12:43PM,General Motors Refutes Charge Of Ignoring Black-Owned Media For Advertising,0.231,0.769,0.0,-0.4019
+89,GM,2021-03-29,12:30PM,"General Motors Company -- Moody's affirms GM ratings, Baa2 for senior unsecured bank facility and Baa3 for senior unsecured notes; Outlook changed to stable.",0.183,0.739,0.077,-0.4588
+90,GM,2021-03-29,12:29PM,"General Motors Financial International BV -- Moody's affirms General Motors Financial's ratings (long-term senior unsecured Baa3), changes outlook to stable from negative; following similar actions on the parent's ratings",0.183,0.754,0.064,-0.6249
+91,GM,2021-03-29,12:00PM,EV Stocks Are Getting Crushed: Time to Buy?,0.286,0.714,0.0,-0.4215
+92,GM,2021-03-29,11:57AM,"General Motors Company -- Moody's affirms GM ratings, Baa2 for senior unsecured bank facility and Baa3 for senior unsecured notes; Outlook changed to stable.",0.183,0.739,0.077,-0.4588
+93,GM,2021-03-28,08:09AM,Is GM Stock A Buy? General Motors Rebounds Bullishly Amid Deeper FedEx Ties,0.0,1.0,0.0,0.0
+94,GM,2021-03-28,12:00AM,Heres How the Worlds Chip Shortage Is Playing Out for Stocks,0.156,0.703,0.141,-0.0516
+95,GM,2021-03-26,04:06PM,Nio the latest automaker hit by chip shortage,0.222,0.778,0.0,-0.25
+96,GM,2021-03-26,04:04PM,Nio Stock Falls As Halt In Electric Vehicle Production Hits Outlook,0.0,1.0,0.0,0.0
+97,GM,2021-03-26,03:08PM,How the pandemic has led to a boom in used car purchases,0.0,1.0,0.0,0.0
+98,GM,2021-03-26,07:42AM,"The Zacks Analyst Blog Highlights: Tesla, General Motors, Toyota Motor, Albemarle Corp and Xcel Energy",0.0,0.87,0.13,0.2732
+99,GM,2021-03-26,05:02AM,"Stellantis, Nissan, Nio cut more production due to chip shortage",0.339,0.661,0.0,-0.4767

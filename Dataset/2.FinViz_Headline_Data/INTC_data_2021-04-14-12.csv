@@ -1,0 +1,101 @@
+,ticker,date,time,headline,neg,neu,pos,compound
+0,INTC,2021-04-14,05:52AM,This Startup Is Building a Chip to Save Traders Vital Microseconds,0.0,0.597,0.403,0.6597
+1,INTC,2021-04-13,05:45PM,Intel (INTC) Stock Sinks As Market Gains: What You Should Know,0.0,0.806,0.194,0.34
+2,INTC,2021-04-13,04:32PM,"Nvidia Stock Hits Buy Point On Data Center, AI Advancements",0.0,1.0,0.0,0.0
+3,INTC,2021-04-13,03:53PM,Why Cloudflare Stock Jumped Today,0.0,1.0,0.0,0.0
+4,INTC,2021-04-13,10:13AM,Intel's (INTC) Mobileye Partners With Udelv: Main Takeaways,0.0,1.0,0.0,0.0
+5,INTC,2021-04-13,10:00AM,"Dow Jones Lags, Nasdaq Rallies As J&J Vaccine Paused; Bitcoin Spikes To New High, Nvidia Breaks Out",0.135,0.865,0.0,-0.3612
+6,INTC,2021-04-13,09:01AM,These 2 Tech Stocks Could Be Big Winners From Biden's Infrastructure Bill,0.0,0.763,0.237,0.4767
+7,INTC,2021-04-13,09:00AM,Microsoft is updating its MacBook Air competitor for the work from home age,0.0,1.0,0.0,0.0
+8,INTC,2021-04-13,07:52AM,Intel Offers Support For Automakers During President Biden's Chip Crisis Meeting: Report,0.244,0.595,0.161,-0.34
+9,INTC,2021-04-13,03:37AM,"Not Another Manic Monday, Bond Bidding, Coinbase Excitement, Semiconductor Wars",0.243,0.541,0.216,-0.1027
+10,INTC,2021-04-12,11:24PM,Biden Reassures Chip Summit of Bipartisan Support for Funds,0.0,0.574,0.426,0.6369
+11,INTC,2021-04-12,08:54PM,Intel offers up factories to ease chip shortage,0.19,0.571,0.238,0.128
+12,INTC,2021-04-12,06:20PM,"Intel CEO on Nvidia competition: We are playing offense, not defense",0.256,0.607,0.137,-0.1456
+13,INTC,2021-04-12,05:39PM,Nvidia CFO Says Revenue Will Top First-Quarter Guidance,0.0,0.795,0.205,0.2023
+14,INTC,2021-04-12,04:33PM,Dow Jones Dips As Powell Comments Hit Stock Market But These Growth Stocks Rally,0.0,0.833,0.167,0.3818
+15,INTC,2021-04-12,04:31PM,Why NVIDIA Stock Climbed While Intel and AMD Dipped Today,0.0,1.0,0.0,0.0
+16,INTC,2021-04-12,02:50PM,"Nvidia to Make Server Processor, Targets Intel Profit Center",0.0,0.734,0.266,0.4404
+17,INTC,2021-04-12,02:42PM,Column: 100 CEOs met to discuss opposing anti-voting laws. Don't expect them to do anything,0.0,1.0,0.0,0.0
+18,INTC,2021-04-12,02:36PM,UPDATE 1-Intel in talks to produce chips for automakers within six to nine months -CEO,0.0,1.0,0.0,0.0
+19,INTC,2021-04-12,02:17PM,Intel in talks to produce chips for automakers within six to nine months -CEO,0.0,1.0,0.0,0.0
+20,INTC,2021-04-12,02:09PM,Chip shortage pain to be spread out pretty evenly: Autoblog Editor-in-Chief,0.321,0.485,0.194,-0.2732
+21,INTC,2021-04-12,12:51PM,"Nvidia steps up competition with Intel and AMD with first data-center CPU, based on Arm",0.0,1.0,0.0,0.0
+22,INTC,2021-04-12,12:48PM,Nvidia to directly challenge Intel with Arm-based 'Grace' server chip,0.0,0.874,0.126,0.0772
+23,INTC,2021-04-12,12:27PM,White House virtual summit to focus on global chip shortage,0.182,0.818,0.0,-0.25
+24,INTC,2021-04-12,12:27PM,Nvidia to directly challenge Intel with Arm-based 'Grace' server chip,0.0,0.874,0.126,0.0772
+25,INTC,2021-04-12,12:27PM,Nvidia announces Arm-based 'Grace' server chip in direct challenge to Intel,0.0,0.885,0.115,0.0772
+26,INTC,2021-04-12,12:21PM,UPDATE 3-Nvidia to directly challenge Intel with Arm-based 'Grace' server chip,0.0,0.885,0.115,0.0772
+27,INTC,2021-04-12,12:18PM,Nvidia announces Arm-based 'Grace' server chip in direct challenge to Intel,0.0,0.885,0.115,0.0772
+28,INTC,2021-04-12,11:29AM,Intel's Mobileye Will Power Udelv's Self-Driving Delivery Vehicles Starting in 2023,0.0,1.0,0.0,0.0
+29,INTC,2021-04-12,10:02AM,Nvidia Moves In on Intel's Turf With Server Microprocessors,0.0,1.0,0.0,0.0
+30,INTC,2021-04-12,10:00AM,[video]Here's Your Intel Trading Strategy,0.0,1.0,0.0,0.0
+31,INTC,2021-04-12,09:10AM,Intel's Mobileye teams with startup Udelv on automated delivery,0.0,1.0,0.0,0.0
+32,INTC,2021-04-12,09:00AM,Mobileye and Udelv Ink Deal for Autonomous Delivery,0.0,1.0,0.0,0.0
+33,INTC,2021-04-12,09:00AM,Intel's Mobileye teams with startup Udelv on automated delivery,0.0,1.0,0.0,0.0
+34,INTC,2021-04-12,06:42AM,Huawei to Invest $1 Billion on Car Tech It Says Surpasses Tesla,0.0,1.0,0.0,0.0
+35,INTC,2021-04-09,07:46PM,"Arm Battle With China CEO Escalates, Complicating SoftBank Sale",0.245,0.755,0.0,-0.3818
+36,INTC,2021-04-09,03:07PM,Dow Jones Rises To New High As Apple Extends Win Streak; Growth Stocks Break Out,0.0,0.603,0.397,0.7845
+37,INTC,2021-04-09,12:57PM,"Ford, GM, Intel among companies due to participate in White House meeting on chip shortage",0.125,0.875,0.0,-0.25
+38,INTC,2021-04-09,09:22AM,The global chip shortage is a perfect storm: strategist,0.171,0.513,0.316,0.4019
+39,INTC,2021-04-09,09:02AM,The 4 Best Semiconductor Stocks to Buy for the Next Decade,0.0,0.682,0.318,0.6369
+40,INTC,2021-04-09,08:15AM,Better Buy: NXP Semiconductors vs. Intel,0.0,0.633,0.367,0.4404
+41,INTC,2021-04-08,05:01PM,The Chip Industry Has a Problem With Its Giant Carbon Footprint,0.231,0.769,0.0,-0.4019
+42,INTC,2021-04-08,07:45AM,AMD Is Firing On All Cylinders Against Intel Once Again,0.211,0.789,0.0,-0.34
+43,INTC,2021-04-08,07:27AM,"The Zacks Analyst Blog Highlights: Advanced Micro Devices, Vishay Intertechnology, NVIDIA, Ubiquiti and Knowles Corp",0.0,0.875,0.125,0.25
+44,INTC,2021-04-07,05:45PM,Intel (INTC) Outpaces Stock Market Gains: What You Should Know,0.0,0.789,0.211,0.34
+45,INTC,2021-04-07,02:19PM,"Pandemic Accelerated Demand for Chips, Says Intel's Bryant",0.176,0.824,0.0,-0.128
+46,INTC,2021-04-07,02:01PM,"Intel Has a New Data-Center Chip, and Credit Suisse Says the Stock Is a Steal",0.19,0.655,0.155,-0.1531
+47,INTC,2021-04-07,12:29PM,5 Tech Stocks with Strong Growth Prospects and Attractive Valuations,0.0,0.312,0.688,0.875
+48,INTC,2021-04-07,10:59AM,Intel (INTC) Unveils 3rd Gen Xeon Processors: Main Takeaways,0.0,1.0,0.0,0.0
+49,INTC,2021-04-07,10:45AM,MacBook buying guide 2021: Air or Pro? How to choose the best Apple laptop for you,0.0,0.781,0.219,0.6369
+50,INTC,2021-04-07,09:00AM,Intel Editorial: Leveraging Technology to Provide Global Pandemic Relief,0.0,0.721,0.279,0.4767
+51,INTC,2021-04-07,08:02AM,Nokia (NOK) to Spur AirFrame by Leveraging Intel (INTC) Processors,0.0,1.0,0.0,0.0
+52,INTC,2021-04-07,06:43AM,8 best lightweight laptops for work and play on-the-go,0.0,0.476,0.524,0.765
+53,INTC,2021-04-06,03:26PM,"Is Nvidia Stock A Buy After Steep Decline, Tech Sell-Off?",0.0,1.0,0.0,0.0
+54,INTC,2021-04-06,01:23PM,Is Intel Stock A Buy With New Chief Executive Running Chipmaker?,0.0,1.0,0.0,0.0
+55,INTC,2021-04-06,12:19PM,"Intel Brings Delayed Tech to Server, Ready for Huge Build-Out",0.139,0.511,0.35,0.4404
+56,INTC,2021-04-06,11:11AM,Intel aims for supply chain edge with new data center chip,0.0,1.0,0.0,0.0
+57,INTC,2021-04-06,11:00AM,Intel Launches Its Most Advanced Performance Data Center Platform,0.0,0.777,0.223,0.3167
+58,INTC,2021-04-06,11:00AM,Intel aims for supply chain edge with new data center chip,0.0,1.0,0.0,0.0
+59,INTC,2021-04-06,09:59AM,Why Shortages of a $1 Chip Sparked Crisis in Global Economy,0.416,0.584,0.0,-0.6908
+60,INTC,2021-04-06,09:43AM,Chip shortage could impact sectors beyond the auto industry: Microns Manish Bhatia,0.154,0.846,0.0,-0.25
+61,INTC,2021-04-06,07:20AM,Don't Count Intel Out Just Yet,0.0,1.0,0.0,0.0
+62,INTC,2021-04-05,07:05PM,"Global Chip Shortage a Temporary Problem, But in Extraordinary Times",0.402,0.598,0.0,-0.5719
+63,INTC,2021-04-05,02:59PM,UPDATE 1-Intel CEO to attend White House meeting on chip supply chain,0.0,1.0,0.0,0.0
+64,INTC,2021-04-05,02:33PM,Intel CEO to attend White House meeting on chip supply chain,0.0,1.0,0.0,0.0
+65,INTC,2021-04-04,02:00PM,Why ASML Holdings Rose 11.1% in March,0.0,1.0,0.0,0.0
+66,INTC,2021-04-04,10:00AM,Why Applied Materials Rose 13% in March,0.0,1.0,0.0,0.0
+67,INTC,2021-04-04,07:30AM,"Semiconductors Watchlist: Nvidia, Micron Surge",0.0,1.0,0.0,0.0
+68,INTC,2021-04-04,07:00AM,The 3 Best Tech Dividend Stocks to Buy Now,0.0,0.625,0.375,0.6369
+69,INTC,2021-04-03,08:30AM,Micron Stock Is a Buy as the Global Chip Shortage Continues,0.182,0.818,0.0,-0.25
+70,INTC,2021-04-02,03:45PM,Is AMD Stock A Buy Ahead Of Chipmaker's First-Quarter Earnings Report?,0.0,1.0,0.0,0.0
+71,INTC,2021-04-02,12:05PM,The 7 Best Blue-Chip Stocks in the Dow Jones,0.0,0.625,0.375,0.6369
+72,INTC,2021-04-02,08:57AM,The U.S. must put the vital semiconductor industry above Wall Streets interests,0.0,0.704,0.296,0.4939
+73,INTC,2021-04-02,08:41AM,Why It's Too Early to Give Up on AMD,0.0,1.0,0.0,0.0
+74,INTC,2021-04-02,07:52AM,5 Top Semiconductor Fab Stocks to Invest in During the Global Chip Shortage,0.127,0.57,0.304,0.4215
+75,INTC,2021-04-01,04:36PM,Chip maker TSMC to invest $100 billion to grow manufacturing capacity,0.0,1.0,0.0,0.0
+76,INTC,2021-04-01,11:03AM,"Micron, Western Digital reportedly eyeing Kioxia, Ford halts production",0.0,1.0,0.0,0.0
+77,INTC,2021-04-01,10:00AM,Media Alert: Intel to Launch 3rd Gen Intel Xeon Scalable Portfolio,0.0,0.82,0.18,0.296
+78,INTC,2021-04-01,07:15AM,Better Buy: Advanced Micro Devices (AMD) vs. Intel,0.0,0.55,0.45,0.5994
+79,INTC,2021-04-01,04:34AM,TSMC to Spend $100 Billion Over Three Years to Grow Capacity,0.0,1.0,0.0,0.0
+80,INTC,2021-03-31,10:58PM,UPDATE 2-TSMC to invest $100 bln over 3 years to meet chip demand,0.12,0.88,0.0,-0.128
+81,INTC,2021-03-31,05:45PM,Intel (INTC) Stock Moves 0.36%: What You Should Know,0.0,1.0,0.0,0.0
+82,INTC,2021-03-31,09:30AM,Intel Announces New Plan To Capture Market Share,0.0,0.761,0.239,0.296
+83,INTC,2021-03-30,07:35PM,Intel Stock Stages a Big Comeback; Analyst Says Buy,0.0,1.0,0.0,0.0
+84,INTC,2021-03-30,03:12PM,Gas prices will remain 'fairly steady': Prosper Trading Academy CEO,0.0,1.0,0.0,0.0
+85,INTC,2021-03-30,02:07PM,Arm Ltd debuts new chip technology aimed at overtaking data centers,0.0,1.0,0.0,0.0
+86,INTC,2021-03-30,02:00PM,Arm Takes Aim at Intel Chips in Biggest Tech Overhaul in Decade,0.0,1.0,0.0,0.0
+87,INTC,2021-03-30,02:00PM,Arm Ltd debuts new chip technology aimed at overtaking data centers,0.0,1.0,0.0,0.0
+88,INTC,2021-03-30,11:00AM,Intel 2020 Supplier Continuous Quality Improvement Awards,0.0,0.455,0.545,0.7184
+89,INTC,2021-03-30,09:49AM,Semiconductor shortage could go on for 'a couple of years': Cisco CEO,0.154,0.846,0.0,-0.25
+90,INTC,2021-03-30,08:15AM,3 Surefire Stocks to Hold for the Long Term,0.0,0.778,0.222,0.25
+91,INTC,2021-03-30,07:30AM,Why Intel's Foundry Services Push Makes Sense,0.0,1.0,0.0,0.0
+92,INTC,2021-03-30,05:02AM,"U.S.-China Tensions Worsened Chip Crunch, TSMC Chairman Says",0.483,0.517,0.0,-0.6808
+93,INTC,2021-03-29,04:10PM,Applied Materials To Focus On Share Buybacks After Kokusai Deal Falls Through,0.0,0.833,0.167,0.296
+94,INTC,2021-03-29,12:55PM,We must balance higher corporate taxes with the need to stay competitive globally: Cisco CEO,0.0,0.892,0.108,0.1779
+95,INTC,2021-03-29,10:56AM,Cisco CEO on Bidens recovery proposal: 'Modern technology infrastructure is a must',0.0,1.0,0.0,0.0
+96,INTC,2021-03-29,10:49AM,Cisco CEO on next-gen tech under Biden admin,0.0,1.0,0.0,0.0
+97,INTC,2021-03-29,05:01AM,"15 Best Stocks in the Past Week: Nucor, BowX, Target",0.0,0.682,0.318,0.6369
+98,INTC,2021-03-28,10:56AM,"The Latest Barron's Picks And Pans: H&R Block, Intel, Parts ID, Welbilt And More",0.182,0.818,0.0,-0.4404
+99,INTC,2021-03-28,07:31AM,"Benzinga's Bulls And Bears Of The Week: Amazon, Citigroup, Facebook, GameStop, Intel And More",0.0,0.884,0.116,0.1779

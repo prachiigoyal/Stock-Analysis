@@ -1,0 +1,101 @@
+,ticker,date,time,headline,neg,neu,pos,compound
+0,BA,2021-04-14,08:19AM,Cancellations Spoil Boeing's March Order Surge,0.0,1.0,0.0,0.0
+1,BA,2021-04-14,06:57AM,Bell-Boeing Wins $143M Deal to Support V-22 Family of Jets,0.0,0.556,0.444,0.7506
+2,BA,2021-04-14,06:11AM,Bahrain's Gulf Air makes progress in delaying jet deliveries,0.0,0.741,0.259,0.4215
+3,BA,2021-04-13,05:45PM,Boeing (BA) Outpaces Stock Market Gains: What You Should Know,0.0,0.789,0.211,0.34
+4,BA,2021-04-13,04:40PM,4 Dow Jones Stocks To Buy And Watch In April 2021: Apple Jumps 2%,0.0,1.0,0.0,0.0
+5,BA,2021-04-13,04:30PM,American Defers 37 Boeing Jets as Post-Pandemic Recovery Continues,0.0,1.0,0.0,0.0
+6,BA,2021-04-13,01:15PM,Dow Jones Lags As 'Inflation Domino' Falls; J&J Dips On Covid Vaccine News; Nvidia Passes Buy,0.143,0.857,0.0,-0.3612
+7,BA,2021-04-13,11:42AM,Boeing beats Airbus sales for first time in two years,0.0,1.0,0.0,0.0
+8,BA,2021-04-13,11:20AM,American Defers 37 Boeing Deliveries as Long as Three Years,0.0,1.0,0.0,0.0
+9,BA,2021-04-13,11:17AM,Boeing's Q1 commercial-plane deliveries up 54%,0.0,1.0,0.0,0.0
+10,BA,2021-04-13,11:05AM,Boeing delivers 29 aircraft in March; orders positive for second straight month,0.0,0.645,0.355,0.6705
+11,BA,2021-04-13,11:00AM,Boeing delivers 29 aircraft in March; orders positive for second straight month,0.0,0.645,0.355,0.6705
+12,BA,2021-04-13,11:00AM,Boeing Announces First-Quarter Deliveries,0.0,1.0,0.0,0.0
+13,BA,2021-04-13,08:20AM,UPDATE 2-American Airlines cash flow turns positive in March,0.0,0.69,0.31,0.5574
+14,BA,2021-04-13,07:21AM,"Boeing Shares Climb as March Aircraft Delivery, Order Totals Gain Pace",0.0,0.616,0.384,0.6808
+15,BA,2021-04-13,06:08AM,"Jim Cramer on Johnson & Johnson, Nvidia and the Markets",0.0,1.0,0.0,0.0
+16,BA,2021-04-13,05:18AM,Boeing's Charts May Lose Some Altitude,0.351,0.649,0.0,-0.4019
+17,BA,2021-04-13,04:44AM,"American Air Pegs Quarterly Loss Up to $1.3B, Revenue Down 62%",0.187,0.813,0.0,-0.3182
+18,BA,2021-04-12,04:53PM,"Air Canada signs C$5.9 billion government aid package, agrees to buy Airbus, Boeing jets",0.0,0.878,0.122,0.2023
+19,BA,2021-04-12,04:33PM,Dow Jones Dips As Powell Comments Hit Stock Market But These Growth Stocks Rally,0.0,0.833,0.167,0.3818
+20,BA,2021-04-12,01:45PM,"Boeing Company (The) -- Moody's: Identified electrical issue on Boeing's 737 MAX will be a minor disturbance, Baa2 rating unaffected",0.126,0.874,0.0,-0.3818
+21,BA,2021-04-12,01:30PM,Dow Jones Slips As Powell Warns Of 'Elevated' Assets; Tesla Stock Surges On This,0.093,0.795,0.113,0.0772
+22,BA,2021-04-12,10:27AM,Air Lease (AL) Delivers First of Five Boeing 737-8 to Belavia,0.0,1.0,0.0,0.0
+23,BA,2021-04-11,03:23AM,UAE's flydubai says fleet not affected by possible 737 MAX electrical issue,0.0,0.884,0.116,0.1139
+24,BA,2021-04-10,06:07AM,Boeing grounds dozens of 737 Max planes after electrical problem,0.231,0.769,0.0,-0.4019
+25,BA,2021-04-09,09:14PM,Boeing Faces Checks on Hundreds of Max Jets for Electrical Flaw,0.0,1.0,0.0,0.0
+26,BA,2021-04-09,06:12PM,UPDATE 1-Boeing union to vote on whether to authorize strike,0.143,0.857,0.0,-0.128
+27,BA,2021-04-09,05:29PM,CORRECTED-Boeing union with over 220 workers will vote to authorize strike,0.13,0.87,0.0,-0.128
+28,BA,2021-04-09,04:20PM,737 Max Production Issues Resume Haunting Boeing,0.259,0.741,0.0,-0.2732
+29,BA,2021-04-09,04:15PM,Boeing union to vote on whether to authorize strike,0.158,0.842,0.0,-0.128
+30,BA,2021-04-09,04:10PM,Boeing Stock Falls After Warning On Potential 737 Max Issue,0.211,0.789,0.0,-0.34
+31,BA,2021-04-09,03:07PM,Dow Jones Rises To New High As Apple Extends Win Streak; Growth Stocks Break Out,0.0,0.603,0.397,0.7845
+32,BA,2021-04-09,02:16PM,Boeing Grounds 60 737 MAX Jets Due to Potential Power System Issue,0.0,1.0,0.0,0.0
+33,BA,2021-04-09,01:56PM,"Stocks Move Higher As Dow Leads, Nasdaq Lags; These Growth Stocks Break Out",0.155,0.683,0.161,0.0258
+34,BA,2021-04-09,12:24PM,Dow Jones Rallies In Mixed Session; Boeing Dips As Leader Passes Buy; Apple Extends Win Streak,0.0,0.725,0.275,0.6486
+35,BA,2021-04-09,12:23PM,"Boeings new 737 Max problem is easy fix, analyst says",0.199,0.588,0.213,0.0516
+36,BA,2021-04-09,10:22AM,Boeing Warns of Potential Issue With 737 MAX Jet,0.149,0.851,0.0,-0.1027
+37,BA,2021-04-09,09:35AM,Boeing stock drops to lead the Dow's losers after flagging electrical issue with 737 MAX jets,0.185,0.815,0.0,-0.5267
+38,BA,2021-04-09,09:19AM,Turkish Airlines to fly 737 MAX jets after authority approval -source,0.0,0.672,0.328,0.5267
+39,BA,2021-04-09,08:26AM,Boeing production issue prompts airlines to pull some 737 MAX jets from service,0.0,1.0,0.0,0.0
+40,BA,2021-04-09,08:13AM,Airbus Stock Climbs as Deliveries Soar in March. Why Theres Turbulence Ahead.,0.0,1.0,0.0,0.0
+41,BA,2021-04-09,07:15AM,Boeing production issue prompts airlines to pull some 737 MAX jets from service,0.0,1.0,0.0,0.0
+42,BA,2021-04-09,06:59AM,UPDATE 5-Boeing production issue prompts airlines to pull some 737 MAX jets from service,0.0,1.0,0.0,0.0
+43,BA,2021-04-09,06:53AM,I'm Not Crazy About Boeing but There's a Trade to Be Made,0.0,0.868,0.132,0.1326
+44,BA,2021-04-09,05:00AM,"Airbus deliveries surge in March, sending shares higher",0.0,0.761,0.239,0.296
+45,BA,2021-04-09,04:40AM,"Boeing Alerts on 737 MAX Issue; Southwest, American, United Pull Planes",0.0,0.781,0.219,0.4215
+46,BA,2021-04-09,03:14AM,U.S. Futures Mixed; Tech Stocks Underperform After Gains,0.0,0.745,0.255,0.34
+47,BA,2021-04-08,07:03PM,"Boeing sues, cancels contracts with Air Force One supplier",0.192,0.808,0.0,-0.2263
+48,BA,2021-04-07,05:45PM,Boeing (BA) Stock Sinks As Market Gains: What You Should Know,0.0,0.806,0.194,0.34
+49,BA,2021-04-07,04:06PM,Air Force Names Boeing F-15EX And It Makes No Sense,0.196,0.804,0.0,-0.296
+50,BA,2021-04-07,03:21PM,Why Airline Stocks Could Continue to Inch Higher,0.0,1.0,0.0,0.0
+51,BA,2021-04-07,12:19PM,Dow Jones Gives Up Early Gain As Market Takes A Breather; 2 Dow Stocks In Buy Range,0.0,0.805,0.195,0.5267
+52,BA,2021-04-07,12:18PM,Archegos: How Wall Street's hubris is a lesson for retail traders,0.0,1.0,0.0,0.0
+53,BA,2021-04-07,12:03PM,Airbus deliveries seen accelerating in March,0.0,1.0,0.0,0.0
+54,BA,2021-04-07,11:00AM,Boeing to Release First-Quarter Results on April 28,0.0,1.0,0.0,0.0
+55,BA,2021-04-07,10:35AM,How Much Does the US Trade With the EU?,0.0,1.0,0.0,0.0
+56,BA,2021-04-07,09:55AM,Stocks to Gain on Bright Boeing 737 Max Performance,0.0,0.526,0.474,0.743
+57,BA,2021-04-06,04:16PM,Lockheed's Hypersonic Missile Hits Setback In First Flight Test,0.0,1.0,0.0,0.0
+58,BA,2021-04-06,01:14PM,Ryanair's (RYAAY) Traffic Tanks 91% in March Amid Coronavirus Woes,0.244,0.756,0.0,-0.4404
+59,BA,2021-04-06,12:46PM,Is American Airlines Stock A Buy As Air Travel Recovers?,0.0,1.0,0.0,0.0
+60,BA,2021-04-06,10:59AM,"Qatar Airways interested in potential Boeing 777X freighter, CEO says",0.0,0.769,0.231,0.4019
+61,BA,2021-04-06,10:35AM,"UPDATE 1-Qatar Airways interested in potential Boeing 777X freighter, CEO says",0.0,0.787,0.213,0.4019
+62,BA,2021-04-06,08:34AM,UAE's flydubai to have all 14 737 MAX jets in service by June,0.0,1.0,0.0,0.0
+63,BA,2021-04-06,07:30AM,Xiamen Air starts modification on grounded Boeing 737 MAX,0.0,1.0,0.0,0.0
+64,BA,2021-04-06,03:55AM,Vietnam lifts ban on transit by Boeing 737 MAX planes,0.286,0.714,0.0,-0.5574
+65,BA,2021-04-06,03:50AM,UPDATE 1-Vietnam lifts ban on transit by Boeing 737 MAX planes,0.265,0.735,0.0,-0.5574
+66,BA,2021-04-06,01:09AM,Japan Airlines To Retire Boeing 777 Jets With Pratt & Whitney Engines In Light Of United Accident,0.156,0.704,0.141,-0.0772
+67,BA,2021-04-05,09:03PM,Japan Airlines to retire 777 planes with Pratt & Whitney engines after United incident,0.0,0.811,0.189,0.4215
+68,BA,2021-04-05,06:53PM,"U.S. lawmakers urge USTR Tai to seek removal of UK, EU whiskey tariffs",0.0,1.0,0.0,0.0
+69,BA,2021-04-05,12:13PM,Is Boeing Stock A Buy As CDC Says Vaccinated People Can Travel?,0.0,1.0,0.0,0.0
+70,BA,2021-04-05,11:43AM,Dow Jumps To Record Highs As Treasury Yields Rise; Tesla Surges On Deliveries Surprise,0.0,0.755,0.245,0.4404
+71,BA,2021-04-05,10:00AM,"Dow Jones Today, S&P 500 Set New Records On Payrolls Boost; Boeing In Buy Range, Tesla Jumps On Q1 Deliveries",0.0,0.876,0.124,0.4019
+72,BA,2021-04-05,09:19AM,Air Lease (AL) Delivers One of Ten Boeing 737-8 to Blue Air,0.0,1.0,0.0,0.0
+73,BA,2021-04-02,12:53PM,Why Boeing Shares Took Flight in March,0.0,0.732,0.268,0.296
+74,BA,2021-04-01,04:02PM,"Stock Market Rally Strengthens As S&P 500 Hits High, Nasdaq Rebounds Amid Biden Infrastructure Plan",0.0,0.824,0.176,0.4588
+75,BA,2021-04-01,12:50PM,UPDATE 1-Frontier CEO says now making money with low fares in pandemic as stock debuts,0.13,0.87,0.0,-0.2732
+76,BA,2021-04-01,10:24AM,"Dow Rallies, Tech Stocks Surge As Yields Fall; EV Leaders Nio, Tesla, Xpeng Race Higher",0.0,1.0,0.0,0.0
+77,BA,2021-04-01,06:52AM,Boeing (BA) Wins $1.6B Deal for Delivery of 11 P-8A Aircraft,0.0,0.73,0.27,0.5719
+78,BA,2021-03-31,11:23PM,U.S. FAA approves design of 737 MAX 8200 variant,0.0,0.748,0.252,0.4019
+79,BA,2021-03-31,11:19PM,Fiji Airways receives regulator's approval for return of 737 MAX,0.0,0.744,0.256,0.4767
+80,BA,2021-03-31,08:19PM,UPDATE 2-U.S. FAA approves design of 737 MAX 8200 variant,0.0,0.769,0.231,0.4019
+81,BA,2021-03-31,03:25PM,UPDATE 2-Boeing urges U.S. to separate China trade and human rights,0.0,1.0,0.0,0.0
+82,BA,2021-03-31,02:05PM,Boeing urges U.S. to separate China trade and human rights,0.0,1.0,0.0,0.0
+83,BA,2021-03-31,01:34PM,"Dow Jones Edges Higher, But Walgreens Soars 5% On Earnings; Apple Jumps On Upgrade, Boeing Stays In Buy Range",0.0,1.0,0.0,0.0
+84,BA,2021-03-31,12:12PM,ARKs Sam Korus on firms newly-launched Space Exploration & Innovation ETF,0.0,0.64,0.36,0.5423
+85,BA,2021-03-31,12:00PM,"Dow Jones Up, Nasdaq Leads, As Biden Unveils $2T Infrastructure Plan; Apple Gains On Upgrade",0.0,0.854,0.146,0.34
+86,BA,2021-03-31,10:19AM,"Dow Falls, Tech Stocks Jump Ahead Of Biden Infrastructure Plan; Apple, Boeing, Tesla Rally",0.0,1.0,0.0,0.0
+87,BA,2021-03-31,07:59AM,"Dow Jones Futures Fall, Tech Futures Rise: Market Rally Awaits Biden Infrastructure Plan; GM Leads 7 Stocks In Buy Range",0.0,0.933,0.067,0.0772
+88,BA,2021-03-31,07:31AM,The Smartest People on Wall Street Are Buying These 3 Stocks -- Should You Follow?,0.0,0.765,0.235,0.6124
+89,BA,2021-03-31,06:03AM,"Dow Jones Futures: GM Leads 7 Stocks In Buy Range Amid Choppy Market Rally; Apple, AMD Extend Slump",0.0,0.904,0.096,0.1779
+90,BA,2021-03-31,03:07AM,Boeing Gets More 737 MAX Orders From Alaska Airlines Over December Commitment,0.0,0.809,0.191,0.3818
+91,BA,2021-03-30,09:59PM,CORRECTED-UPDATE 2-Indonesia recovers cockpit voice recorder of crashed Sriwijaya Air jet,0.0,1.0,0.0,0.0
+92,BA,2021-03-30,05:45PM,Boeing (BA) Gains As Market Dips: What You Should Know,0.0,0.789,0.211,0.34
+93,BA,2021-03-30,04:22PM,Virgin Galactic Unveils Its Future While Its Present Faces Delay,0.204,0.796,0.0,-0.3182
+94,BA,2021-03-30,04:02PM,Ark Invest's New Space Stocks ETF Slips In Debut,0.0,1.0,0.0,0.0
+95,BA,2021-03-30,10:21AM,"Dow, Tech Stocks Sell Off As Treasury Yields Hit New Highs; Apple, Tesla Slide",0.0,0.878,0.122,0.2023
+96,BA,2021-03-30,10:00AM,Southwest (LUV) Announces Deal for 100 Boeing 737 MAX Jets,0.0,1.0,0.0,0.0
+97,BA,2021-03-30,07:46AM,"Dow Futures Fall, Tech Futures Slide As Treasury Yields Rise; DraftKings, Tesla, Zoom Slide",0.0,0.878,0.122,0.2023
+98,BA,2021-03-30,04:29AM,Morning Bell With Jim Cramer: Buy Boeing,0.0,1.0,0.0,0.0
+99,BA,2021-03-29,06:24PM,Aberdeen (City of) WA -- Moody's announces completion of a periodic review of ratings of Washington (State of),0.0,1.0,0.0,0.0

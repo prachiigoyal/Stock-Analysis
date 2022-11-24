@@ -1,0 +1,101 @@
+,ticker,date,time,headline,neg,neu,pos,compound
+0,HPE,2021-04-13,12:55PM,Is HPE Stock A Buy or Sell?,0.0,1.0,0.0,0.0
+1,HPE,2021-04-13,06:00AM,New Advancements to Aruba ESP Deliver Edge-to-Cloud Security to Enterprises,0.0,0.789,0.211,0.34
+2,HPE,2021-04-12,01:00PM,U.S. Department of Energys Los Alamos National Laboratory Expands Collaboration with Hewlett Packard Enterprise on New Supercomputer Design to Advance Scientific Research,0.0,0.938,0.062,0.1027
+3,HPE,2021-04-11,05:20AM,Is Now An Opportune Moment To Examine Hewlett Packard Enterprise Company (NYSE:HPE)?,0.0,0.803,0.197,0.4019
+4,HPE,2021-04-01,11:30AM,Why Is HP Enterprise (HPE) Up 8.1% Since Last Earnings Report?,0.0,1.0,0.0,0.0
+5,HPE,2021-03-31,08:03PM,"Biden pledges to buy 24/7 carbon-free electricity pushed by Clean Air Task Force, Google and others",0.0,0.847,0.153,0.4019
+6,HPE,2021-03-31,07:44AM,Hewlett Packard (HPE) to Power oXya's New Cloud Architecture,0.0,1.0,0.0,0.0
+7,HPE,2021-03-31,02:00AM,Hewlett Packard Enterprise Announces 150 New High Tech Jobs in Ireland,0.0,1.0,0.0,0.0
+8,HPE,2021-03-30,04:00AM,Hewlett Packard Enterprise Powers Leading SAP HANA Cloud Service Provider in France,0.0,1.0,0.0,0.0
+9,HPE,2021-03-26,08:29AM,Robust Memory Chip Demand to Aid Micron's (MU) Q2 Earnings,0.126,0.672,0.202,0.2263
+10,HPE,2021-03-23,07:36PM,Hewlett Packard Enterprise Shows Improved Relative Price Performance,0.0,0.693,0.307,0.4767
+11,HPE,2021-03-22,08:00AM,Childrens of Alabama Begins Next-Generation Healthcare Transformation with an Aruba ESP-Based Network,0.0,1.0,0.0,0.0
+12,HPE,2021-03-18,01:46PM,HPEFS Equipment Trust 2020-2 -- Moody's upgrades multiple securities issued by Hewlett-Packard Financial Services Company,0.0,0.703,0.297,0.6705
+13,HPE,2021-03-18,01:42PM,Moody's upgrades multiple securities issued by Hewlett-Packard Financial Services Company,0.0,0.804,0.196,0.296
+14,HPE,2021-03-17,12:13PM,"ORock Technologies Selects HPE Ezmeral Software and HPE GreenLake Cloud Services for Data Science as-a-Service, Open-Source Hybrid Cloud and Big Data Storage Solutions",0.0,0.928,0.072,0.1779
+15,HPE,2021-03-17,09:20AM,Time to Change Strategies on Hewlett Packard Enterprise,0.0,1.0,0.0,0.0
+16,HPE,2021-03-17,08:00AM,Hewlett Packard Enterprise Fuels Data-Driven Digital Transformation with New Products and Partnerships for HPE Ezmeral Software,0.0,1.0,0.0,0.0
+17,HPE,2021-03-16,10:57AM,Hewlett Packard (HPE) to Aid Digital Migration With New Servers,0.0,1.0,0.0,0.0
+18,HPE,2021-03-15,11:00AM,Nanya Technology Corporation Boosts Manufacturing Productivity With HPE Ezmeral Container Platform,0.0,0.813,0.187,0.3182
+19,HPE,2021-03-15,11:00AM,Hewlett Packard Enterprise Unveils Industrys Broadest Portfolio of AMD EPYC Processor-Based Solutions to Power the Edge to Exascale,0.0,0.909,0.091,0.1779
+20,HPE,2021-03-15,05:12AM,15 Most Valuable App Companies,0.0,0.541,0.459,0.5256
+21,HPE,2021-03-11,06:25AM,These 3 Value Stocks Are Absurdly Cheap Right Now,0.0,0.745,0.255,0.34
+22,HPE,2021-03-10,10:45AM,Hewlett Packard (HPE) Joins Wavenet to Strengthen Cloud Services,0.0,0.777,0.223,0.3182
+23,HPE,2021-03-10,07:45AM,Hewlett Packard Enterprise Drives Hybrid Cloud Disruption With New HPE GreenLake Cloud Services and Partnerships,0.152,0.848,0.0,-0.3612
+24,HPE,2021-03-09,11:13AM,Hewlett Packard (HPE) & Beyond.pl Team Up for New Cloud Services,0.0,1.0,0.0,0.0
+25,HPE,2021-03-09,08:00AM,Faith Regional Health Services Advances Patient Care with Aruba,0.0,0.538,0.462,0.7184
+26,HPE,2021-03-08,10:16AM,Analyzing Hewlett Packard's Ex-Dividend Date,0.0,1.0,0.0,0.0
+27,HPE,2021-03-08,09:18AM,3 High-Yield Tech Stocks to Buy in March,0.0,1.0,0.0,0.0
+28,HPE,2021-03-08,08:55AM,Get Paid While You Wait: 3 Top Dividend Stocks in the Technology Sector,0.0,0.859,0.141,0.2023
+29,HPE,2021-03-08,07:00AM,Beyond.pl Selects HPE GreenLake to Power New Cloud Services Portfolio,0.0,1.0,0.0,0.0
+30,HPE,2021-03-08,05:00AM,Wavenet Chooses HPE GreenLake to Power its Industry-Leading Portfolio of Cloud and Hosted Services,0.0,1.0,0.0,0.0
+31,HPE,2021-03-05,11:12AM,HPE CEO: Our HPC business is a 'crown jewel',0.0,0.737,0.263,0.3612
+32,HPE,2021-03-04,09:41AM,"Company News for Mar 4, 2021",0.0,1.0,0.0,0.0
+33,HPE,2021-03-03,05:53PM,"As governor reopens Texas, HPE says it will remain cautious",0.135,0.865,0.0,-0.1027
+34,HPE,2021-03-03,01:08PM,HPEFS Equipment Trust 2021-1 -- Moody's assigns definitive ratings to HPEFS Equipment Trust 2021-1 notes,0.0,0.663,0.337,0.765
+35,HPE,2021-03-03,12:29PM,Hewlett Packard (HPE) Q1 Earnings & Revenues Beat Estimates,0.0,1.0,0.0,0.0
+36,HPE,2021-03-03,08:00AM,Hewlett Packard Enterprise Advances Edge Leadership with HPE SimpliVity,0.0,1.0,0.0,0.0
+37,HPE,2021-03-03,03:12AM,"Hewlett Packard Enterprise Tops Earnings Forecasts, Ups Full-Year Guidance",0.0,0.708,0.292,0.5106
+38,HPE,2021-03-02,11:00PM,Hewlett Packard Enterprise Co (HPE) Q1 2021 Earnings Call Transcript,0.0,1.0,0.0,0.0
+39,HPE,2021-03-02,05:25PM,Hewlett Packard Enterprise (HPE) Q1 Earnings and Revenues Top Estimates,0.0,0.833,0.167,0.2023
+40,HPE,2021-03-02,05:09PM,"HP Enterprise Posts Better-Than-Expected Earnings, Raises Guidance for the Year",0.0,1.0,0.0,0.0
+41,HPE,2021-03-02,04:57PM,HPE Gives Bullish Forecast on Stronger Internet Gear Sales,0.0,0.755,0.245,0.3818
+42,HPE,2021-03-02,04:47PM,"HPE Stock Rises As Cisco, Dell Rival Reports Fiscal Q1 Earnings Above Estimates",0.0,1.0,0.0,0.0
+43,HPE,2021-03-02,04:30PM,HPE higher after reporting estimates that beat expectations,0.0,1.0,0.0,0.0
+44,HPE,2021-03-02,04:26PM,Recap: Hewlett Packard Q1 Earnings,0.0,1.0,0.0,0.0
+45,HPE,2021-03-02,04:13PM,"HP Enterprise earnings, revenue top estimates, sending shares up 3%",0.0,0.667,0.333,0.4588
+46,HPE,2021-03-02,04:05PM,HPE Reports Fiscal 2021 First Quarter Results,0.0,1.0,0.0,0.0
+47,HPE,2021-03-02,03:01PM,Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure,0.0,1.0,0.0,0.0
+48,HPE,2021-03-02,11:56AM,"HP Enterprise Rises After Topping Estimates, Lifting Guidance",0.0,1.0,0.0,0.0
+49,HPE,2021-03-01,10:04AM,Hewlett Packard Earnings Preview,0.0,1.0,0.0,0.0
+50,HPE,2021-03-01,09:28AM,What's in the Offing for Hewlett Packard (HPE) Q1 Earnings?,0.0,1.0,0.0,0.0
+51,HPE,2021-02-26,07:33PM,Rising Rates Are Killing Tech Stocks. Here Are 10 That Can Still Thrive.,0.268,0.732,0.0,-0.6597
+52,HPE,2021-02-26,10:14AM,Swedens KTH Royal Institute of Technology Selects Hewlett Packard Enterprise to Build New Supercomputer to Advance Academic and Industrial Research,0.0,1.0,0.0,0.0
+53,HPE,2021-02-25,03:05PM,"HP shocks Wall Street, blows away earnings estimates",0.271,0.729,0.0,-0.3818
+54,HPE,2021-02-24,11:00AM,Hewlett Packard Enterprise Paves Way For Mass Deployment of Open RAN in 5G Networks with Industry-First Open RAN Solution Stack,0.0,0.892,0.108,0.3182
+55,HPE,2021-02-23,08:00AM,Doane University Chooses Aruba ESP to Enable Hybrid Learning,0.0,1.0,0.0,0.0
+56,HPE,2021-02-23,02:54AM,What You Need To Know About Hewlett Packard Enterprise Company's (NYSE:HPE) Investor Composition,0.0,1.0,0.0,0.0
+57,HPE,2021-02-22,08:00PM,Tookitaki Powers AI-Driven Anti-Money Laundering Solution Using HPE GreenLake,0.0,0.777,0.223,0.3182
+58,HPE,2021-02-22,12:24PM,"Palantir co-founder still bullish on Texas, despite power failure",0.0,0.748,0.252,0.4023
+59,HPE,2021-02-19,11:07AM,HPEs Neil MacDonald on evolving tech infrastructure amid pandemic,0.0,1.0,0.0,0.0
+60,HPE,2021-02-18,11:24AM,HPEFS Equipment Trust 2021-1 -- Moody's assigns provisional ratings to HPEFS Equipment Trust 2021-1 notes,0.0,0.663,0.337,0.765
+61,HPE,2021-02-18,11:13AM,HPEFS Equipment Trust 2021-1 -- Moody's assigns provisional ratings to HPEFS Equipment Trust 2021-1 notes,0.0,0.663,0.337,0.765
+62,HPE,2021-02-18,08:00AM,Aruba Expands Roster of Easy-to-Deploy Workplace Safety Solutions,0.0,0.459,0.541,0.5994
+63,HPE,2021-02-11,08:00AM,Hewlett Packard Enterprise Accelerates Space Exploration with First Ever In-Space Commercial Edge Computing and Artificial Intelligence Capabilities,0.0,0.75,0.25,0.6124
+64,HPE,2021-02-11,04:00AM,Lineas Chooses Hewlett Packard Enterprise to Transform Freight Operations and Support Business Growth,0.0,0.675,0.325,0.6486
+65,HPE,2021-02-10,09:48AM,"Despite Silicon Valley exodus, 'talent is still very much here': San Jose mayor",0.0,0.811,0.189,0.4215
+66,HPE,2021-02-10,09:00AM,U.S. Air Force Advances Weather Forecasting for Defense Missions with 6.5X Faster Supercomputer Built by Hewlett Packard Enterprise,0.0,0.919,0.081,0.128
+67,HPE,2021-02-09,07:45AM,Hewlett Packard Enterprise to Present Live Audio Webcast of First Quarter Earnings Conference Call,0.0,1.0,0.0,0.0
+68,HPE,2021-02-06,05:16PM,10 Best 5G Stocks to Buy Under $10,0.0,0.625,0.375,0.6369
+69,HPE,2021-02-06,08:03AM,Why rich people leaving California isn't what you think,0.0,0.69,0.31,0.5574
+70,HPE,2021-02-03,08:00AM,Distribution Management Standardizes on Aruba Network Infrastructure to Speed Warehouse Digital Transformation,0.0,1.0,0.0,0.0
+71,HPE,2021-02-02,12:10PM,Why the Earnings Surprise Streak Could Continue for HP Enterprise (HPE),0.0,0.826,0.174,0.2732
+72,HPE,2021-01-27,12:31PM,Hewlett-Packard International Bank DAC -- Moody's affirms ratings of Hewlett-Packard International Bank; outlook stable,0.0,0.855,0.145,0.296
+73,HPE,2021-01-27,08:00AM,"Hewlett Packard Enterprise to Build $35M+ Supercomputer for the National Center for Atmospheric Research to Improve Predictions of Wildfires, Hurricanes, and Solar Storms",0.0,0.884,0.116,0.4404
+74,HPE,2021-01-21,04:54PM,From brain drain to brain gain: Miami mayors plan to turn the city into a tech hub,0.0,0.815,0.185,0.5267
+75,HPE,2021-01-19,08:00AM,Ingles Markets Modernizes Operations and Begins Curbside Pick-up Service for its Customers with Aruba,0.0,1.0,0.0,0.0
+76,HPE,2021-01-15,04:55PM,JPMorgan Upgrades Hewlett Packard Enterprise On Valuation,0.0,1.0,0.0,0.0
+77,HPE,2021-01-15,01:17PM,HP Enterprise Stock Looks Too Cheap. Why You Might Want To Buy It.,0.0,0.902,0.098,0.0772
+78,HPE,2021-01-15,03:01AM,Aruba ClearPass Security Portfolio Receives Coveted Cyber Catalyst Designation,0.0,0.769,0.231,0.34
+79,HPE,2021-01-08,12:49PM,Coronavirus May Be The Tipping Point In New York And California Exodus,0.0,1.0,0.0,0.0
+80,HPE,2021-01-07,05:04PM,Breaking down why Silicon Valley companies are moving to Texas,0.0,1.0,0.0,0.0
+81,HPE,2021-01-06,03:01AM,Is Hewlett Packard Enterprise Company (NYSE:HPE) Trading At A 29% Discount?,0.0,1.0,0.0,0.0
+82,HPE,2021-01-05,08:08AM,Strong Memory Chip Demand to Aid Micron's (MU) Q1 Earnings,0.117,0.625,0.258,0.4215
+83,HPE,2020-12-31,11:30AM,HP Enterprise (HPE) Up 1.4% Since Last Earnings Report: Can It Continue?,0.0,1.0,0.0,0.0
+84,HPE,2020-12-29,08:00AM,Companies Are Fleeing California. Blame Bad Government.,0.541,0.459,0.0,-0.7096
+85,HPE,2020-12-24,09:00AM,"Column: California isn't 'hemorrhaging' people, but there are reasons for concern",0.0,1.0,0.0,0.0
+86,HPE,2020-12-22,09:38AM,Is HPE A Good Stock To Buy According To Hedge Funds?,0.0,0.756,0.244,0.4404
+87,HPE,2020-12-21,11:27AM,Citi Names Dell Stock a Top Pick. A VMware Spinoff Would Be an Added Bonus.,0.0,0.675,0.325,0.6486
+88,HPE,2020-12-17,11:41AM,HP (HPQ) Rallies to a 2-Year High,0.0,1.0,0.0,0.0
+89,HPE,2020-12-16,05:27PM,Austin Mayor Steve Adler on the city becoming the newest tech hub,0.0,1.0,0.0,0.0
+90,HPE,2020-12-15,08:00AM,"LendingTree Standardizes on Aruba ESP to Enable a Modern, Mobile-First Workplace",0.0,1.0,0.0,0.0
+91,HPE,2020-12-14,08:00AM,National Tree Company Revamps Order Processing with Hewlett Packard Enterprise Just in Time for the Holidays,0.0,0.852,0.148,0.3818
+92,HPE,2020-12-14,07:00AM,"Silicon Valley VCs Contemplate a Pandemic Move, but Where?",0.0,1.0,0.0,0.0
+93,HPE,2020-12-11,06:45PM,"Oracle Moves Headquarters to Texas, Joining Valley Exodus",0.0,1.0,0.0,0.0
+94,HPE,2020-12-11,06:15PM,From Elon Musk to Oracle  the coronavirus accelerates California exodus,0.0,1.0,0.0,0.0
+95,HPE,2020-12-10,12:30PM,Aruba Automates Branch Office Connectivity to AWS with Support for AWS Transit Gateway Connect,0.0,0.828,0.172,0.4019
+96,HPE,2020-12-10,10:47AM,HPE's Peter Ungaro on what next-gen supercomputing will look like,0.0,0.783,0.217,0.3612
+97,HPE,2020-12-09,07:45AM,Hewlett Packard Enterprise Accelerates Mainstream Enterprise Adoption for High Performance Computing with Worlds Most Powerful Solutions Delivered as a service through HPE GreenLake,0.0,0.798,0.202,0.6214
+98,HPE,2020-12-08,12:18PM,"CDP released its annual top environmental leaders, heres who made the A list",0.0,0.859,0.141,0.2023
+99,HPE,2020-12-08,06:00AM,Goldman in Florida. Hewlett in Houston. Who's Next?,0.0,1.0,0.0,0.0

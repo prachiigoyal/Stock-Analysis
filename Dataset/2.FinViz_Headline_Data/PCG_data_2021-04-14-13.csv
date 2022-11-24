@@ -1,0 +1,101 @@
+,ticker,date,time,headline,neg,neu,pos,compound
+0,PCG,2021-04-13,04:00PM,Helping Customers Prepare For Wildfire Season: PG&E Hosting Weekly Regional Wildfire Safety Webinars,0.0,0.688,0.312,0.6124
+1,PCG,2021-04-13,11:57AM,"Helping Customers and Hometowns: PG&E Lays Groundwork for Permanent, Multi-Customer Microgrids",0.0,0.82,0.18,0.296
+2,PCG,2021-04-12,01:41PM,"Helping Fund Local Schools, Public Health and Public Safety: PG&E Pays Property Tax and Franchise Fee Payments to Local Cities, Counties",0.0,0.792,0.208,0.6124
+3,PCG,2021-04-09,12:30PM,"PG&E Contributes $500,000 to Restaurant Resilience Fund to Strengthen Businesses for the Long-Term",0.0,0.839,0.161,0.3182
+4,PCG,2021-04-08,12:30PM,"With Millions of Californians Still Working and Schooling from Home, Calling 811 Before Digging More Important Than Ever",0.0,0.89,0.11,0.2716
+5,PCG,2021-04-07,09:16AM,"PG&E Appoints Jason Glickman as Executive Vice President, Engineering, Planning, and Strategy",0.0,1.0,0.0,0.0
+6,PCG,2021-04-06,05:27PM,PG&E faces new criminal charges for 2019 California wildfire,0.44,0.56,0.0,-0.6705
+7,PCG,2021-04-06,04:00PM,PG&E Disputes Criminal Charges Related to 2019 Kincade Fire,0.667,0.333,0.0,-0.8402
+8,PCG,2021-04-05,04:30PM,Here to Help: PG&E Will Continue Providing Robust Customer Support Once COVID-19 Protections End in Late June,0.0,0.642,0.358,0.7783
+9,PCG,2021-03-31,09:00AM,PG&E Further Strengthens Utility Leadership with Two New Appointments,0.0,0.727,0.273,0.4588
+10,PCG,2021-03-29,12:45PM,Is PG and E Corporation (PCG) A Smart Long-Term Buy?,0.0,0.722,0.278,0.4019
+11,PCG,2021-03-27,11:31AM,PG&E (PCG) Up 10.9% Since Last Earnings Report: Can It Continue?,0.0,1.0,0.0,0.0
+12,PCG,2021-03-24,09:08AM,"Continuing to Shape Its Leadership Team for the Future, PG&E Names Chris Foster as Chief Financial Officer",0.0,1.0,0.0,0.0
+13,PCG,2021-03-23,05:26PM,Federal judge may require more PG&E blackouts to prevent wildfires,0.0,0.891,0.109,0.0258
+14,PCG,2021-03-23,08:30AM,PG&E Corporation Schedules First Quarter 2021 Earnings Release and Conference Call,0.0,1.0,0.0,0.0
+15,PCG,2021-03-22,11:59PM,PG&E Responds to CAL FIREs Announcement about 2020 Zogg Fire in Shasta County,0.167,0.833,0.0,-0.34
+16,PCG,2021-03-22,12:00PM,PG&E and BMW Group Taking Next Step in Powering Electric Vehicles with Renewable Energy and Supporting Grid Reliability,0.0,0.762,0.238,0.6124
+17,PCG,2021-03-18,12:21PM,PG&E to Contribute $1.25 Million to Nonprofits Supporting COVID-19 Response,0.0,0.756,0.244,0.4404
+18,PCG,2021-03-17,11:29AM,Billionaire David Teppers Top 10 Stock Picks,0.0,0.769,0.231,0.2023
+19,PCG,2021-03-17,09:00AM,"PG&E Further Strengthens Leadership Team, Appoints Joe Bentley as Senior Vice President, Electric Engineering",0.0,0.812,0.188,0.4588
+20,PCG,2021-03-16,03:11PM,Is PG&E (PCG) Stock A Buy or Sell?,0.0,1.0,0.0,0.0
+21,PCG,2021-03-16,01:48PM,Solar Stocks Sink on Proposed California Rule Changes. Why Utilities in Other States May Wage Similar Battles.,0.14,0.86,0.0,-0.3818
+22,PCG,2021-03-16,12:00PM,"With Billing and Payment Scams on the Rise During the Pandemic, PG&E Reminds Customers What They Can Do to Protect Themselves",0.15,0.748,0.102,-0.296
+23,PCG,2021-03-15,07:47PM,Proposal to Modernize Rooftop Solar Program Would Support Customer Equity and Help Sustain Californias Clean Energy Progress,0.0,0.48,0.52,0.9001
+24,PCG,2021-03-15,02:52PM,Billionaire Dan Loebs Top 10 Stock Picks,0.0,0.769,0.231,0.2023
+25,PCG,2021-03-12,03:32PM,5 Stocks Top Earners Steven Cohen and David Tepper Have in Common,0.0,0.847,0.153,0.2023
+26,PCG,2021-03-09,12:00PM,PG&E Surpasses Californias 2020 Renewable Energy Goal; Electricity Delivered to Customers is More than 88% Greenhouse Gas-Free and Among the Cleanest in the Nation,0.0,0.916,0.084,0.2732
+27,PCG,2021-03-09,09:07AM,"With More Utilities Going Bankrupt in Texas, Are Utility Stocks Really Safe?",0.227,0.586,0.187,-0.1706
+28,PCG,2021-03-08,03:23PM,Tesla Is Plugging a Secret Mega-Battery Into the Texas Grid,0.0,1.0,0.0,0.0
+29,PCG,2021-03-08,12:37PM,PG&E to Customers: Have a Plan for Upcoming Weather Systems,0.0,1.0,0.0,0.0
+30,PCG,2021-03-06,04:06PM,10 Best Cheap Stocks To Buy Now According To Billionaire Abrams,0.0,0.704,0.296,0.6369
+31,PCG,2021-03-05,12:00PM,"Just in Time for California Arbor Week, PG&E Offers New Safety Resource to Help Customers Plant the Right Tree in the Right Place",0.0,0.792,0.208,0.6705
+32,PCG,2021-03-05,09:17AM,PG&E Self-Reports Small Number of Missed Inspections to CPUC; Takes Immediate Corrective Actions to Ensure Safe Operations,0.1,0.591,0.309,0.5574
+33,PCG,2021-03-04,01:51PM,"Ruby Pipeline, LLC -- Moody's downgrades Ruby Pipeline's notes to Caa1; outlook negative",0.236,0.764,0.0,-0.5719
+34,PCG,2021-03-04,01:35PM,Billionaire Seth Klarmans Top 10 Stock Picks for 2021,0.0,0.816,0.184,0.2023
+35,PCG,2021-03-02,12:00PM,New PG&E Webpage Offers Energy-Saving Tips for Customers Who Are Using More Power at Home Due to the Pandemic,0.0,1.0,0.0,0.0
+36,PCG,2021-03-01,02:30PM,Brazos Becomes Rare Failing Angel After Texas Storm Bankruptcy,0.292,0.708,0.0,-0.5106
+37,PCG,2021-02-28,07:00AM,"A Giant Pension Bought Up PG&E, Zoom, and a Stock Elon Musk Loves",0.0,0.73,0.27,0.5719
+38,PCG,2021-02-25,09:31PM,PG&E Responds to California Public Utilities Commissions Draft Resolution to Implement Enhanced Regulatory Oversight,0.0,1.0,0.0,0.0
+39,PCG,2021-02-25,04:30PM,PG&E Corp (PCG) Q4 2020 Earnings Call Transcript,0.0,1.0,0.0,0.0
+40,PCG,2021-02-25,01:02PM,"PG&E Corporation (PCG) Q4 Earnings Miss, Revenues Up Y/Y",0.167,0.833,0.0,-0.1531
+41,PCG,2021-02-25,08:26AM,PG&E Corporation Reports Full-Year and Fourth-Quarter 2020 Financial Results,0.0,1.0,0.0,0.0
+42,PCG,2021-02-24,07:25PM,Wildfire victims sue former PG&E execs for massive dereliction of duty,0.187,0.813,0.0,-0.3182
+43,PCG,2021-02-23,09:14PM,"California Statewide Communities Dev. Auth. -- Moody's upgrades California Statewide Communities Development Authority, CA's 2007 A-2 POBs to Ba2 from Caa2, outlook is stable",0.0,0.863,0.137,0.3612
+44,PCG,2021-02-23,09:12AM,"PG&E Continues to Bolster Senior Leadership Team, Appoints Marlene Santos as Executive Vice President and Chief Customer Officer",0.0,1.0,0.0,0.0
+45,PCG,2021-02-22,12:04PM,"Tesla, PG&E's Giant Battery Pack Project In California Is Almost Finished: Video",0.0,1.0,0.0,0.0
+46,PCG,2021-02-22,10:30AM,Top 10 Energy Sector Stocks for 2021,0.0,0.562,0.438,0.4404
+47,PCG,2021-02-18,08:00PM,PG&E Rolls Out Electric Vehicle Fast Charge Stations,0.0,1.0,0.0,0.0
+48,PCG,2021-02-18,12:20PM,PG&E Launches EV Fast Charge Program to Help Accelerate Electric Vehicle Adoption in California,0.0,0.828,0.172,0.4019
+49,PCG,2021-02-18,11:00AM,Climate Crisis: a special conversation with Bill Gates,0.347,0.424,0.229,-0.34
+50,PCG,2021-02-17,05:30PM,David Tepper's Top 6 Trades of the 4th Quarter,0.0,0.795,0.205,0.2023
+51,PCG,2021-02-17,08:00AM,PG&E Appoints Industry Expert Joseph Forline to Lead Gas Operations,0.0,1.0,0.0,0.0
+52,PCG,2021-02-16,10:27AM,Palantir Stock Slides on Mixed Fourth-Quarter Results,0.0,1.0,0.0,0.0
+53,PCG,2021-02-16,10:04AM,Palantir shares sink 9% after quarterly results,0.0,0.732,0.268,0.296
+54,PCG,2021-02-11,06:25PM,PG&E Extends Its Ongoing Support to Customers Affected by the COVID-19 Pandemic Through End of June,0.085,0.691,0.223,0.3818
+55,PCG,2021-02-10,01:10PM,Analyst Bullish On PG&E Following Wildfire Mitigation Plan,0.0,1.0,0.0,0.0
+56,PCG,2021-02-10,04:40AM,15 Biggest Companies That Went Bankrupt,0.419,0.581,0.0,-0.5574
+57,PCG,2021-02-09,01:00PM,"Californians Have a New Incentive for Going Electric on Their Next Vehicle: Up to $1,500 Off the Price",0.0,0.865,0.135,0.3612
+58,PCG,2021-02-09,11:30AM,"PG&E to Lovebirds: Make Sure the Only Sparks You Generate Are with Your Valentine, and Not from Metallic Balloons in Power Lines",0.0,0.901,0.099,0.3182
+59,PCG,2021-02-08,04:17PM,Silicon Valley Clean Energy Authority -- Moody's announces completion of a periodic review of ratings of Silicon Valley Clean Energy Authority,0.0,0.534,0.466,0.8481
+60,PCG,2021-02-05,09:54PM,PG&E to Deploy New Risk Modeling and Fire Spread Technology to Further Reduce Wildfire Risk,0.355,0.645,0.0,-0.6808
+61,PCG,2021-02-05,12:25PM,Why Palantirs Long-Term Prospects Are Brighter than Ever,0.0,0.556,0.444,0.5859
+62,PCG,2021-02-03,05:26PM,"Sacramento Municipal Utility District, CA -- Moody's announces completion of a periodic review of ratings of Sacramento Municipal Utility District, CA",0.0,1.0,0.0,0.0
+63,PCG,2021-02-02,04:58PM,"As Part of Its Focus on Financial Health and Customer Affordability, PG&E Agrees to $973 Million Sale of Transmission Tower Wireless Licenses to SBA Communications Corporation",0.0,0.933,0.067,0.2023
+64,PCG,2021-02-02,11:45AM,PG&E Offers Ways to Dial up Savings and Safety this Winter,0.0,0.781,0.219,0.4215
+65,PCG,2021-01-31,05:55PM,"PG&E Restores Nearly All Customers Following Historic Winter Storm, Prepares for More Snow and Rain Next Week",0.0,0.879,0.121,0.296
+66,PCG,2021-01-31,01:38PM,Billionaire David Teppers Top 10 Stock Holdings,0.0,0.769,0.231,0.2023
+67,PCG,2021-01-29,07:43PM,95% of Customers Restored Following Historic January Winter Storm; PG&E Crews Focusing on Making Repairs in Hardest Hit Areas with Access Issues,0.0,0.897,0.103,0.34
+68,PCG,2021-01-27,09:57PM,Hundreds of PG&E Crews Working to Restore Service as One of the Strongest Winter Storms in Years Hits California,0.0,0.769,0.231,0.6249
+69,PCG,2021-01-26,09:14AM,PG&E Bolsters Senior Leadership Team With Proven Industry Leaders,0.0,1.0,0.0,0.0
+70,PCG,2021-01-25,05:15PM,"In Support of Statewide Initiatives, PG&E Will Move Some Residential Customers to a Time-of-Use Rate Plan Starting in April 2021 to Encourage Energy Usage When Renewables Are More Plentiful and Demand is Lower",0.101,0.691,0.207,0.6293
+71,PCG,2021-01-25,03:00PM,"With Series of Winter Storms on Tap This Week, PG&E Urges Customers to Stay Safe, Be Prepared and Have an Emergency Plan",0.098,0.72,0.182,0.296
+72,PCG,2021-01-25,09:59AM,Lodi (City of) CA Electric Enterprise -- Moody's announces completion of a periodic review of ratings of Lodi (City of) CA Electric Enterprise,0.0,1.0,0.0,0.0
+73,PCG,2021-01-24,08:40AM,12 Best Utility Stocks To Buy Now,0.0,0.588,0.412,0.6369
+74,PCG,2021-01-22,09:23PM,"PG&E Restores Nearly All Customers Following Historic Windstorm, Prepares for Winter Snow and Rain Next Week",0.0,0.872,0.128,0.296
+75,PCG,2021-01-21,01:20PM,PG&E Continues to Make Progress as Hundreds of Thousands of Customers Have Been Restored after Severe Windstorm and PSPS Event,0.105,0.685,0.21,0.3818
+76,PCG,2021-01-19,09:40PM,"PG&E Crews Out in Force Making Repairs After Offshore Windstorm Sweeps Through State, Causing Wind Hazards and Related Outages",0.0,1.0,0.0,0.0
+77,PCG,2021-01-19,07:45PM,Californias Changing Climate Gives New Fuel to Fire Season,0.231,0.769,0.0,-0.34
+78,PCG,2021-01-19,01:04PM,Palantir Nabs Multi-Million-Dollar Contract With PG&E; Shares Gain 3%,0.0,0.556,0.444,0.6808
+79,PCG,2021-01-19,08:30AM,PG&E Corporation Schedules Fourth Quarter 2020 Earnings Release and Conference Call,0.0,1.0,0.0,0.0
+80,PCG,2021-01-18,09:26PM,Californians Suffer Unprecedented Fire Blackouts in January,0.541,0.459,0.0,-0.7096
+81,PCG,2021-01-18,08:06PM,"As Offshore Windstorm Sweeps Through State, PG&E Manages Related Outages Throughout Service Area and Prepares to Execute a Targeted Public Safety Power Shutoff Later Tonight in Small Portions of Driest Locations",0.0,0.912,0.088,0.4215
+82,PCG,2021-01-17,07:34PM,"As Major Offshore Windstorm Approaches, PG&E Prepares for Potential Widespread, Wind-Driven Outages Throughout Its Service Area and Potential for Targeted Public Safety Power Shutoffs in Small Portions of the Driest Locations",0.0,0.915,0.085,0.4215
+83,PCG,2021-01-16,10:27PM,"Potential for Small, Targeted PSPS Event in Nine Counties: Forecasted Strong, Offshore Winds and Dry Conditions Mean PG&E May Need to Proactively Turn Off Power for Safety to Approximately 21,000 Customers Monday Night",0.0,0.836,0.164,0.7269
+84,PCG,2021-01-12,01:00PM,"Growing Network of Weather Stations and Fire-Watch Cameras Provide PG&E Meteorologists, Outside Agencies with Hyperlocal Data on Extreme Weather",0.0,0.914,0.086,0.1779
+85,PCG,2021-01-08,01:19PM,Vistra Energy's (VST) Moss Landing Phase I Comes Online,0.0,1.0,0.0,0.0
+86,PCG,2021-01-06,04:32PM,6 Stocks Added to Most Weighted Portfolio in 2021,0.0,1.0,0.0,0.0
+87,PCG,2021-01-02,05:45PM,Billionaire David Abrams Top 10 Stock Picks,0.0,0.769,0.231,0.2023
+88,PCG,2020-12-31,11:45AM,"The PG&E Corporation Foundation Announces $400,000 in Grants to Support Local Climate Change Resilience Planning",0.0,0.739,0.261,0.5574
+89,PCG,2020-12-28,05:18PM,Why Are David Tepper and Daniel Loeb Buying PG&E?,0.0,1.0,0.0,0.0
+90,PCG,2020-12-24,10:28AM,PG&E Corp.'s (PCG) Unit to Add 387 MW of Battery Storage,0.0,1.0,0.0,0.0
+91,PCG,2020-12-23,12:39PM,"PG&E Proposes Expanding Its Battery Energy Storage Portfolio to Improve Electric Reliability, Further Integrate Renewable Energy",0.0,0.647,0.353,0.7269
+92,PCG,2020-12-22,12:17PM,"With Many Still Sheltering, Working and Schooling at Home During the Pandemic, PG&E Reminds Customers of the Risks of Carbon Monoxide",0.095,0.905,0.0,-0.2732
+93,PCG,2020-12-22,04:42AM,15 Largest Utility Companies in the World,0.0,1.0,0.0,0.0
+94,PCG,2020-12-17,06:36PM,NCPA - Lodi Energy Center (Indenture Group B) -- Moody's affirms the Aa2 rating on NCPA's Lodi Energy Center Indenture B Revenue Bonds; outlook stable,0.0,0.758,0.242,0.6597
+95,PCG,2020-12-17,02:50PM,Is PTVE A Good Stock To Buy Now?,0.0,0.674,0.326,0.4404
+96,PCG,2020-12-17,09:07AM,Is the Options Market Predicting a Spike in PG&E (PCG) Stock?,0.0,1.0,0.0,0.0
+97,PCG,2020-12-17,03:03AM,Pactiv Evergreen Inc.'s (NASDAQ:PTVE) Intrinsic Value Is Potentially 61% Above Its Share Price,0.0,0.705,0.295,0.5574
+98,PCG,2020-12-15,03:30PM,"With More Families Staying Home for the Holidays, PG&E Offers Safety Tips for Seasonal Decorating and Cooking",0.0,0.735,0.265,0.6597
+99,PCG,2020-12-15,11:45AM,PG&E Hosting Virtual Town Hall on Wednesday to Discuss Ongoing Safety Work to Prevent Wildfires,0.0,0.769,0.231,0.4404
