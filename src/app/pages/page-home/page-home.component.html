@@ -1,0 +1,135 @@
+<app-header></app-header>
+<app-banner-head></app-banner-head>
+<div class="tips-container">
+  <carousel
+    [height]="'100%'"
+    [cellWidth]="'100%'"
+    [autoplay]="true"
+    [arrows]="false"
+    [loop]="true"
+    [dots]="true"
+  >
+    <div class="carousel-cell">
+      <p appTrans transId="page-home-carousel1">Sent by a Dutch pharmacy</p>
+    </div>
+    <div class="carousel-cell">
+      <p appTrans transId="page-home-carousel2">Fast, safe and discreet</p>
+    </div>
+    <div class="carousel-cell">
+      <p appTrans transId="page-home-carousel3">
+        Questions? This is also possible via Whatsapp
+      </p>
+    </div>
+  </carousel>
+</div>
+
+<hr class="mt-4" />
+
+<app-feature-card
+  [element]="{
+    alignLeft: true,
+    title: 'Het Haar',
+    img: 'assets/images/problem-hair.jpg',
+    showConsultButton: true
+  }"
+>
+  <p appTrans transId="page-home-problem1">
+    A precious but fragile possession. It is part of the identity and reflects
+    the character that lies beneath it. It will be used to distinguish, to
+    impress but above all to seduce. So take good care of it, don't lose it! Do
+    you suffer from hair loss? Start one online consultation with one of the
+    doctors in our network to see how we are can help you.
+  </p>
+</app-feature-card>
+
+<blockquote class="quote-card">
+  <span style="width: 100%; text-align: center">
+    <p appTrans transId="page-home-quote">
+      "Hair loss is treatable. You just never knew. Welcome to Delta; a place
+      where shame and taboo do not exist and where we are men help solve their
+      health problems."
+    </p></span
+  >
+</blockquote>
+
+<app-feature-card
+  [element]="{
+    alignLeft: false,
+    title: 'De Huid',
+    img: 'assets/images/problem-skin.jpg',
+    showConsultButton: true
+  }"
+>
+  <p appTrans transId="page-home-problem2">
+    It breathes, it nourishes and forms the barrier between the 'you' and all
+    that out there. Everyone deserves to feel comfortable in being own skin, but
+    those who suffer from acne usually are not. No to care. Whether you suffer
+    from acne or your skin simply in perfect want to get in shape, we will help
+    you. Want to know what suits you best? Start with an online consultation and
+    receive tailor-made advice.
+  </p>
+</app-feature-card>
+
+<app-feature-card
+  [element]="{
+    alignLeft: true,
+    title: 'Seks',
+    img: 'assets/images/problem-sex.jpg',
+    showConsultButton: true
+  }"
+>
+  <p appTrans transId="page-home-problem3">
+    Let's be honest. We have all suffered from sexual intercourse issues. But if
+    it happens on a regular basis, it may be worth it seek professional help.
+    Times have changed. An uncomfortable one a visit to the general practice is
+    no longer necessary. You do a consultation just online. Fast, safe and
+    discreet.
+  </p>
+</app-feature-card>
+
+<div class="how-work">
+  <h1 appTrans transId="page-home-how-work">How it works?</h1>
+  <div class="row ml-4 mr-4">
+    <div class="col-lg-4 col-md-4 col-sm-12" style="text-align: center">
+      <img
+        class="featurette-image img-fluid mx-auto mb-2"
+        src="assets/images/working1.png"
+      />
+      <h3 appTrans transId="page-home-work1-title">Online consult</h3>
+      <p appTrans transId="page-home-work1">
+        Start an online consultation and share your symptoms and medical history
+        with one of the doctors in our network.
+      </p>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-12" style="text-align: center">
+      <img
+        class="featurette-image img-fluid mx-auto mb-2"
+        src="assets/images/working2.png"
+      />
+      <h3 appTrans transId="page-home-work2-title">Verification</h3>
+      <p appTrans transId="page-home-work2">
+        Upload a photo of your ID or passport once.
+      </p>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-12" style="text-align: center">
+      <img
+        class="featurette-image img-fluid mx-auto mb-2"
+        src="assets/images/working3.png"
+      />
+      <h3 appTrans transId="page-home-work3-title">Delivery</h3>
+      <p appTrans transId="page-home-work3">
+        Your treatment will automatically be delivered to your home.
+      </p>
+    </div>
+    <button
+      type="button"
+      class="btn btn-outline-dark consult-btn"
+      appTrans
+      transId="start-consult"
+    >
+      Start online consult
+    </button>
+  </div>
+</div>
+
+<app-footer></app-footer>

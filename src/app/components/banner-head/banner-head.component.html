@@ -1,0 +1,19 @@
+<img class="main-banner-img" src="assets/images/banner.jpg" />
+<div class="main-banner">
+  <h1 class="tw"></h1>
+  <p class="mt-3" appTrans transId="banner-head-slogan">
+    {{ document.header }}
+  </p>
+  <button
+    type="button"
+    class="btn btn-outline-dark btn-lg mt-5"
+    appTrans
+    transId="start-consult"
+  >
+    Track record
+  </button>
+</div>
+<div *ngIf="pageYOffset <= 300" class="scroll-indicator">
+  <i class="fas fa-angle-left mr-3"></i>
+  <h5 appTrans transId="scroll">Scroll</h5>
+</div>

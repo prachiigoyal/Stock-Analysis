@@ -1,0 +1,28 @@
+<div
+  #ref
+  class="row"
+  [ngStyle]="{ 'flex-direction': element.alignLeft ? 'row' : 'row-reverse' }"
+>
+  <div
+    class="col-lg-7 col-md-7 col-sm-12 featurette"
+    [ngStyle]="{
+      'padding-left': element.alignLeft ? '70px' : '150px',
+      'padding-right': element.alignLeft ? '150px' : '70px'
+    }"
+  >
+    <h2 class="featurette-heading">{{ element.title }}</h2>
+    <p class="lead mt-4">
+      <ng-content></ng-content>
+    </p>
+    <button
+      *ngIf="element.showConsultButton"
+      type="button"
+      class="btn btn-outline-dark consult-btn"
+    >
+      Track Record
+    </button>
+  </div>
+  <div class="col-lg-5 col-md-5 col-sm-12 px-0 featurette-container">
+    <img class="featurette-img" [src]="element.img" />
+  </div>
+</div>

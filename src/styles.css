@@ -1,0 +1,102 @@
+body {
+  font-family: "Work Sans", sans-serif;
+  background-color: #fbfbfb;
+}
+
+.btn-outline-dark {
+  border-radius: 0%;
+  padding: 10px 30px;
+  background-color: #090b0c;
+  color: white;
+}
+
+.btn-outline-dark:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: black;
+}
+
+.btn-lg {
+  font-size: 0.8rem;
+  padding: 25px 80px;
+  font-weight: 500;
+}
+
+app-banner-head {
+  display: inline-block;
+  width: 100%;
+  height: 95vh;
+}
+
+app-header {
+  display: inline-block;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 100000;
+  height: 52px;
+}
+
+.carousel-cell * {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+  pointer-events: none;
+}
+
+.badge {
+  border-radius: 100%;
+  font-size: 0.7em;
+  width: 18px;
+  height: 18px;
+  padding-top: 4px;
+  margin-bottom: 5px;
+}
+
+.carousel-dot {
+  border: 2px solid #000 !important;
+}
+
+.carousel-dot-active {
+  background-color: black !important;
+}
+
+.consult-btn {
+  padding: 20px 70px;
+  font-size: 0.8em;
+}
+
+.carousel-arrow {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+.quote-card {
+  background: #898d8b;
+  color: #000;
+  padding: 120px 60px;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  min-height: 120px;
+}
+.quote-card span {
+  display: block;
+  font-size: 1.4em;
+  font-weight: 300;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.featurette-heading {
+  font-size: 3em;
+  font-weight: 600;
+  line-height: 0.9;
+}
+
+@media screen and (max-width: 768px) {
+  .featurette-heading {
+    font-size: 3em;
+    text-align: center;
+  }
+}

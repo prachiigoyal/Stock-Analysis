@@ -1,0 +1,87 @@
+<app-header></app-header>
+
+<app-spinner *ngIf="isLoading"></app-spinner>
+
+<div *ngIf="!isLoading">
+  <div class="row item-container">
+    <div class="col-lg-6 col-md-6 col-sm-12">
+      <carousel
+        [height]="'100%'"
+        [cellWidth]="'100%'"
+        [dots]="true"
+        [loop]="true"
+        [autoplay]="true"
+      >
+        <div class="carousel-cell" *ngFor="let img of productInfo.images">
+          <img [src]="'assets/images/' + img" />
+        </div>
+      </carousel>
+    </div>
+    <div class="col-log-6 col-md-6 col-sm12">
+      <div class="item-details">
+        <h3>{{ product.title }}</h3>
+        <span
+          >{{ product.quantity }} - {{ product.currency }}
+          {{ product.price }}</span
+        >
+        <p>
+          {{ productInfo.description }}
+        </p>
+        <a appTrans transId="page-product-prescription" href="#"
+          >Prescription</a
+        >
+        <button
+          type="button"
+          class="btn btn-outline-dark"
+          appTrans
+          transId="start-consult"
+        >
+          Start online consult
+        </button>
+        <ul class="list-group">
+          <li>
+            <i class="fa fa-check mr-2"></i>
+            <span appTrans transId="page-product-tip1" class="tips">
+              Free Shipping
+            </span>
+          </li>
+          <li>
+            <i class="fa fa-check mr-2"></i>
+            <span appTrans transId="page-product-tip2" class="tips">
+              Repeat recipes sent automatically
+            </span>
+          </li>
+          <li>
+            <i class="fa fa-check mr-2"></i>
+            <span appTrans transId="page-product-tip3" class="tips">
+              No-bs subscription model. Cancel anytime
+            </span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div style="height: 100px"></div>
+
+  <div *ngFor="let feature of productInfo.features">
+    <app-feature-card
+      *ngIf="!feature.isBlock"
+      [element]="{
+        alignLeft: feature.isLeft,
+        title: feature.title,
+        img: 'assets/images/' + feature.img,
+        showConsultButton: false
+      }"
+    >
+      {{ feature.content }}
+    </app-feature-card>
+
+    <blockquote class="quote-card" *ngIf="feature.isBlock">
+      <span style="width: 100%; text-align: center">{{ feature.content }}</span>
+    </blockquote>
+  </div>
+
+  <app-faq [element]="productInfo.faqs"></app-faq>
+</div>
+<app-footer></app-footer>

@@ -1,0 +1,61 @@
+.item-container {
+  width: 100%;
+  height: 100vh;
+  margin: 0px;
+}
+
+.item-container * {
+  padding: 0px;
+}
+
+.carousel-cell img {
+  object-fit: cover !important;
+}
+
+.item-details {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 80px !important;
+}
+
+.item-details h3 {
+  margin: 0px;
+}
+
+.item-details span {
+  font-size: 0.7em;
+}
+
+.item-details p {
+  font-size: 0.92em;
+  margin-bottom: 10px;
+}
+
+.item-details a {
+  display: block;
+  font-size: 0.8em;
+  text-decoration: underline;
+  color: black;
+}
+
+.item-details a:hover {
+  text-decoration: none;
+}
+
+.item-details button {
+  width: 100%;
+  margin-top: 15px;
+  padding: 20px 0px;
+  font-size: 0.9em;
+}
+
+.list-group {
+  list-style-type: none;
+  margin-top: 20px;
+  font-size: 0.9em;
+}
+
+.tips {
+  font-size: 1em !important;
+}

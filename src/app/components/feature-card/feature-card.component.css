@@ -1,0 +1,56 @@
+.row {
+  width: 100%;
+  margin: 50px 0px 150px 0px;
+}
+
+.featurette {
+  background-color: white;
+  padding: 60px 120px 60px 50px;
+  height: fit-content;
+  min-height: 400px;
+}
+
+.lead {
+  font-size: 0.95em;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.consult-btn {
+  display: block;
+  margin-left: auto;
+}
+
+.featurette-container {
+  position: relative;
+  top: 70px;
+  left: -70px;
+  margin-right: -70px;
+}
+
+.featurette-img {
+  width: calc(100% + 70px);
+  height: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 768px) {
+  .consult-btn {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .featurette-container {
+    top: 0px;
+    left: 0px;
+    margin-right: 0px;
+  }
+
+  .featurette {
+    padding: 30px 50px !important;
+  }
+
+  .featurette-img {
+    width: calc(100%);
+  }
+}

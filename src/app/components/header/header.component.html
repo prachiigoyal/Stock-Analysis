@@ -1,0 +1,215 @@
+<nav
+  class="navbar navbar-expand-md navbar-light"
+  [ngStyle]="{
+    backgroundColor:
+      pageYOffset > 0 || submenuState !== 'normal' || isMobileMenuOpened
+        ? '#FBFBFB'
+        : 'transparent'
+  }"
+>
+  <div>
+    <button
+      class="navbar-toggler mr-3"
+      type="button"
+      (click)="onMobileMenuClick()"
+    >
+      <i *ngIf="!isMobileMenuOpened" class="fas fa-bars"></i>
+      <i *ngIf="isMobileMenuOpened" class="fas fa-times"></i>
+    </button>
+    <a class="navbar-brand" routerLink="">Delta</a>
+  </div>
+  <div class="navbar-toggler mobile-side-options">
+    <a href="#">
+      <button type="submit" class="fa fa-search round-icon mr-2"></button>
+    </a>
+    <a href="#">
+      <button type="submit" class="fa fa-user round-icon"></button>
+    </a>
+  </div>
+
+  <div class="collapse navbar-collapse">
+    <ul class="navbar-nav mr-auto">
+      <li
+        class="nav-item ml-2"
+        (mouseenter)="onMouseEnterLink(0)"
+        (mouseleave)="onMouseLeaveLink()"
+      >
+        <a class="nav-link animate-underline num mr-2"
+          >1. {{ submenuStructure[0].category }}</a
+        >
+      </li>
+      <li
+        class="nav-item"
+        (mouseenter)="onMouseEnterLink(1)"
+        (mouseleave)="onMouseLeaveLink()"
+      >
+        <a class="nav-link animate-underline num mr-2"
+          >2. {{ submenuStructure[1].category }}</a
+        >
+      </li>
+      <li
+        class="nav-item"
+        (mouseenter)="onMouseEnterLink(2)"
+        (mouseleave)="onMouseLeaveLink()"
+      >
+        <a class="nav-link animate-underline num mr-2"
+          >3. {{ submenuStructure[2].category }}</a
+        >
+      </li>
+      <li class="nav-item">
+        <a class="nav-link animate-underline num" routerLink="/blog">4. Blog</a>
+      </li>
+    </ul>
+
+    <div class="navbar-nav mt-1">
+      <div class="nav-item dropdown mr-3 mb-4" href="#">
+        <button type="submit" class="fa fa-search round-icon"></button>
+      </div>
+
+      <div class="nav-item dropdown" appDropdown>
+        <a class="nav-link dropdown-toggle">
+          Account
+          <span class="badge badge-dark mr-1">1</span>
+        </a>
+        <div class="dropdown-menu">
+          <a appTrans transId="cart" class="dropdown-item"
+            >Cart<span class="badge badge-dark ml-2">1</span></a
+          >
+          <a appTrans transId="login" class="dropdown-item">Login</a>
+          <a appTrans transId="register" class="dropdown-item">Register</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div
+  class="jumbotron jumbotron-fluid submenu"
+  *ngIf="!isMobileMenuOpened"
+  [ngStyle]="{ pointerEvents: submenuState !== 'normal' ? 'all' : 'none' }"
+  [@submenuState]="submenuState"
+  (mouseenter)="onMouseEnterLink(-1)"
+  (mouseleave)="onMouseLeaveLink()"
+>
+  <div class="container">
+    <div class="row">
+      <div class="col-3">
+        <img
+          [src]="submenuStructure[currentSubMenu]['img']"
+          style="padding: 10px"
+          class="img-fluid mb-2 rounded"
+        />
+        <p style="margin-left: 10px">
+          {{ submenuStructure[currentSubMenu]["footer-label"] }}
+        </p>
+      </div>
+      <div class="vl"></div>
+      <div
+        class="col-3 mt-4 height-fit"
+        *ngIf="submenuStructure[currentSubMenu]['products'].length > 0"
+      >
+        <p class="category-title">Producten</p>
+        <p
+          class="category-link animate-underline"
+          *ngFor="let product of submenuStructure[currentSubMenu]['products']"
+          [routerLink]="[
+            '/' + submenuStructure[currentSubMenu]['category'],
+            product.id
+          ]"
+        >
+          {{ product.title }}
+        </p>
+
+        <p
+          class="category-footer mt-2"
+          appTrans
+          transId="see-all-products"
+          [routerLink]="['/' + submenuStructure[currentSubMenu]['category']]"
+        >
+          See all products
+        </p>
+      </div>
+      <div
+        class="col-3 mt-4 height-fit"
+        *ngIf="submenuStructure[currentSubMenu]['sets'].length > 0"
+      >
+        <p class="category-title">Sets</p>
+        <p
+          class="category-link animate-underline"
+          *ngFor="let set of submenuStructure[currentSubMenu]['sets']"
+          [routerLink]="[
+            '/' + submenuStructure[currentSubMenu]['category'],
+            set.id
+          ]"
+        >
+          {{ set.title }}
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="jumbotron jumbotron-fluid submenu" *ngIf="isMobileMenuOpened">
+  <div class="container mobile-menu">
+    <div class="row">
+      <div class="col-6">
+        <div class="nav flex-column nav-pills" aria-orientation="vertical">
+          <a
+            class="nav-link active"
+            [ngClass]="{ active: currentMobileSubMenu === 0 }"
+            (click)="onMobileMenuOptionClick(0)"
+            >1. {{ submenuStructure[0].category }}</a
+          >
+          <a
+            class="nav-link"
+            [ngClass]="{ active: currentMobileSubMenu === 1 }"
+            (click)="onMobileMenuOptionClick(1)"
+            >2. {{ submenuStructure[1].category }}</a
+          >
+          <a
+            class="nav-link"
+            [ngClass]="{ active: currentMobileSubMenu === 2 }"
+            (click)="onMobileMenuOptionClick(2)"
+            >3. {{ submenuStructure[2].category }}</a
+          >
+        </div>
+
+        <div class="ml-3 mt-2">
+          <p class="mt-3 mb-0" transId="language">Language</p>
+          <select>
+            <option value="en">English</option>
+            <option value="nl">Dutch</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="col-6">
+        <div *ngIf="currentMobileSubMenu >= 0">
+          <div
+            *ngIf="
+              submenuStructure[currentMobileSubMenu]['products'].length > 0
+            "
+          ></div>
+
+          <div
+            *ngIf="submenuStructure[currentMobileSubMenu]['sets'].length > 0"
+          >
+            <p class="category-title mt-2">Sets</p>
+            <p
+              class="category-link"
+              *ngFor="let set of submenuStructure[currentMobileSubMenu]['sets']"
+              [routerLink]="
+                '/' +
+                submenuStructure[currentMobileSubMenu]['category'] +
+                '/' +
+                set.id
+              "
+            >
+              {{ set.title }}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

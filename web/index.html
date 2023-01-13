@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Delta - Stock Market Analysis</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/img/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="assets/img/favicon.png"
+      sizes="32x32"
+    />
+    <link rel="shortcut icon" href="assets/img/favicon.png" />
+  </head>
+
+  <body>
+    <div id="loader">
+      <img src="assets/img/logo-icon.png" alt="icon" class="loading-icon" />
+    </div>
+
+    <div class="appHeader bg-primary text-light">
+      <div class="left">
+        <a href="notifications.html" class="headerButton">
+          <ion-icon class="icon" name="notifications-outline"></ion-icon>
+          <span class="badge badge-danger">1</span>
+        </a>
+      </div>
+      <div class="pageTitle">
+        <img src="assets/img/logo.png" alt="logo" class="logo" />
+      </div>
+      <div class="right">
+        <a href="search.html" class="headerButton">
+          <ion-icon class="icon" name="search-outline"></ion-icon>
+        </a>
+      </div>
+    </div>
+
+    <div id="appCapsule">
+      <div class="section wallet-card-section pt-1">
+        <div class="wallet-card">
+          <div class="balance">
+            <div class="left">
+              <span class="title">Total Balance</span>
+              <h1 class="total">$14,562.50</h1>
+              <span style="color: green">+ $96.64 (0.66%)</span>
+            </div>
+            <div class="right">
+              <a
+                href="#"
+                class="button"
+                data-toggle="modal"
+                data-target="#depositActionSheet"
+              >
+                <ion-icon name="add-outline"></ion-icon>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div
+        class="modal fade action-sheet"
+        id="depositActionSheet"
+        tabindex="-1"
+        role="dialog"
+      >
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">Add Holding</h5>
+            </div>
+            <div class="modal-body">
+              <div class="action-sheet-content">
+                <form>
+                  <div class="form-group basic">
+                    <label class="label">Stock Ticker</label>
+                    <div class="input-group mb-3">
+                      <input type="text" class="form-control form-control-lg" />
+                    </div>
+                  </div>
+
+                  <div class="form-group basic">
+                    <label class="label">Amount</label>
+                    <div class="input-group mb-3">
+                      <div class="input-group-prepend">
+                        <span class="input-group-text" id="input1">$</span>
+                      </div>
+                      <input type="text" class="form-control form-control-lg" />
+                    </div>
+                  </div>
+
+                  <div class="form-group basic">
+                    <button
+                      type="button"
+                      class="btn btn-primary btn-block btn-lg"
+                      data-dismiss="modal"
+                    >
+                      Add
+                    </button>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section mt-4">
+        <div class="section-heading">
+          <h2 class="title">Holdings</h2>
+        </div>
+        <div class="transactions">
+          <a class="item">
+            <div class="detail">
+              <img
+                src="assets/img/sample/brand/2.jpg"
+                alt="img"
+                class="image-block imaged w48"
+              />
+              <div>
+                <strong>AAPL</strong>
+                <p>Apple Inc.</p>
+              </div>
+            </div>
+            <div class="right">
+              <div class="price" style="text-align: right">$8,423</div>
+              <div class="price" style="color: green; font-weight: 100">
+                + $23 (0.67%)
+              </div>
+            </div>
+          </a>
+          <a class="item">
+            <div class="detail">
+              <img
+                src="assets/img/sample/brand/1.jpg"
+                alt="img"
+                class="image-block imaged w48"
+              />
+              <div>
+                <strong>AMZN</strong>
+                <p>Amazon.com, Inc.</p>
+              </div>
+            </div>
+            <div class="right">
+              <div class="price" style="text-align: right">$6,139</div>
+              <div class="price" style="color: green; font-weight: 100">
+                + $46 (0.45%)
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+
+      <div class="section full mt-4">
+        <div class="section-heading padding">
+          <h2 class="title">Watch List</h2>
+        </div>
+        <div class="carousel-multiple owl-carousel owl-theme shadowfix">
+          <div class="item">
+            <div class="bill-box">
+              <div class="img-wrapper">
+                <img
+                  src="assets/img/sample/brand/3.jpg"
+                  alt="img"
+                  class="image-block imaged w48"
+                />
+              </div>
+
+              <div class="price">$745.54</div>
+              <p style="color:red">-0.92%</p>
+              <a href="analysis.html" class="btn btn-primary btn-block btn-sm">Analyze</a>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="bill-box">
+              <div class="img-wrapper">
+                <img
+                  src="assets/img/sample/brand/4.jpg"
+                  alt="img"
+                  class="image-block imaged w48"
+                />
+              </div>
+
+              <div class="price">$615.93</div>
+              <p style="color:green">+9.24%</p>
+              <a href="analysis.html" class="btn btn-primary btn-block btn-sm">Analyze</a>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="bill-box">
+              <div class="img-wrapper">
+                <img
+                  src="assets/img/sample/brand/5.jpg"
+                  alt="img"
+                  class="image-block imaged w48"
+                />
+              </div>
+
+              <div class="price">$3,336.67</div>
+              <p style="color:red">-1.86%</p>
+              <a href="analysis.html" class="btn btn-primary btn-block btn-sm">Analyze</a>
+            </div>
+          </div>
+      </div>
+
+      <div class="section full mt-4 mb-3">
+        <div class="section-heading padding">
+          <h2 class="title">Lastest News</h2>
+          <a href="news.html" class="link">View All</a>
+        </div>
+        <div class="shadowfix carousel-multiple owl-carousel owl-theme">
+          <div class="item">
+            <a href="news.html">
+              <div class="blog-card">
+                <img
+                  src="assets/img/sample/photo/1.jpg"
+                  alt="image"
+                  class="imaged w-100"
+                />
+                <div class="text">
+                  <h4 class="title">
+                    What will be the value of bitcoin in the next...
+                  </h4>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div class="item">
+            <a href="news.html">
+              <div class="blog-card">
+                <img
+                  src="assets/img/sample/photo/2.jpg"
+                  alt="image"
+                  class="imaged w-100"
+                />
+                <div class="text">
+                  <h4 class="title">Rules you need to know in business</h4>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div class="item">
+            <a href="news.html">
+              <div class="blog-card">
+                <img
+                  src="assets/img/sample/photo/3.jpg"
+                  alt="image"
+                  class="imaged w-100"
+                />
+                <div class="text">
+                  <h4 class="title">10 easy ways to save your money</h4>
+                </div>
+              </div>
+            </a>
+          </div>
+
+          <div class="item">
+            <a href="news.html">
+              <div class="blog-card">
+                <img
+                  src="assets/img/sample/photo/4.jpg"
+                  alt="image"
+                  class="imaged w-100"
+                />
+                <div class="text">
+                  <h4 class="title">Follow the financial agenda with...</h4>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="appFooter">
+        <div class="footer-title">
+          Submitted by Team Infersome
+        </div>
+        for Citi Campus Innovation Challenge
+      </div>
+    </div>
+
+    <div class="appBottomMenu">
+      <a href="index.html" class="item active">
+        <div class="col">
+          <ion-icon name="pie-chart-outline"></ion-icon>
+          <strong>Overview</strong>
+        </div>
+      </a>
+      <a href="analysis.html" class="item">
+        <div class="col">
+          <ion-icon name="document-text-outline"></ion-icon>
+          <strong>Analysis</strong>
+        </div>
+      </a>
+      <a href="predictions.html" class="item">
+        <div class="col">
+          <ion-icon name="apps-outline"></ion-icon>
+          <strong>Predictions</strong>
+        </div>
+      </a>
+      <a href="news.html" class="item">
+        <div class="col">
+          <ion-icon name="card-outline"></ion-icon>
+          <strong>News</strong>
+        </div>
+      </a>
+    </div>
+
+    <script src="assets/js/lib/jquery-3.4.1.min.js"></script>
+    <script src="assets/js/lib/popper.min.js"></script>
+    <script src="assets/js/lib/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+    <script src="assets/js/plugins/owl-carousel/owl.carousel.min.js"></script>
+    <script src="assets/js/base.js"></script>
+  </body>
+</html>
